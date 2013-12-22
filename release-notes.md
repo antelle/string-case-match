@@ -5,4 +5,5 @@ Initial commit
 
 ##### v1.1.0 (not released yet)
 Bugfix release  
-`-` subwords can be matches if the abbreviature is following them  
+`-` subwords can be matched if the abbreviature is following them  
+`-` space in query could lead to incorrect results  

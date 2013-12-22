@@ -160,6 +160,12 @@
         it("Doesn't match part of word with next abbreviation", function() {
             expect(match.rank("helloWorld", "elw")).toBeFalsy();
         });
+        it("Doesn't match extra words with spaces in the query", function() {
+            expect(match.rank("hello world", "esgrsregsg llo")).toBeFalsy();
+        });
+        it("Expects a space if the query contains space", function() {
+            expect(match.rank("hello world", "h ello")).toBeFalsy();
+        });
 
         it("Matches single letter at start", function() {
             expect(match.rank("hello", "h")).toBeTruthy();

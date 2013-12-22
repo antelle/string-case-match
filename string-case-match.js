@@ -81,7 +81,7 @@
         var i;
         for (i = 0; i < len; i++) {
             var match = getBestMatch(strs[i], query);
-            // console.log(JSON.stringify(strs[i]) + " [" + query + "] => " + rank);
+            //console.log(JSON.stringify(strs[i]) + " [" + query + "] => " + match.rank);
             if (match && match.rank > 0)
                 matched.push({ str: strs[i], match: match });
         }
@@ -157,6 +157,8 @@
                     strict = str[strIx] == query[queryIx];
                     var equals = strict || strLower[strIx] == queryLower[queryIx];
                     if (strIx == match.pos + 1) {
+                        if (match.waitNewWord)
+                            continue;
                         if (equals) {
                             newMatches.push({ prev: match, pos: strIx, type: MATCH_TYPE_SEQUENCE, strict: strict });
                             continue;
@@ -164,7 +166,7 @@
                             var firstMatchItem = match;
                             while (firstMatchItem.prev)
                                 firstMatchItem = firstMatchItem.prev;
-                            if (firstMatchItem && firstMatchItem.type == MATCH_TYPE_MIDDLE)
+                            if (firstMatchItem.type == MATCH_TYPE_MIDDLE)
                                 continue matchloop;
                         }
                     }
@@ -178,14 +180,15 @@
                         continue;
                     }
                     var strCharWordStart = isWordStart(strCharClasses[strIx], strCharClasses[strIx - 1]);
-                    // console.log("#" + strIx + " (" + str[strIx] + ", " + query[queryIx] + "): " + strCharCls + (strCharWordStart ? " ws" : "") + (equals ? " eq" : ""));
+                    //console.log("#" + strIx + " (" + str[strIx] + ", " + query[queryIx] + "): " + strCharCls + (strCharWordStart ? " ws" : "") + (equals ? " eq" : ""));
                     if (equals && strCharWordStart) {
                         newMatches.push({ prev: match, pos: strIx, type: MATCH_TYPE_WORD_START, strict: strict });
                     }
                 }
-            }
-            if (queryCharCls == CHAR_SPACE) {
-                newMatches.push(match);
+                if (queryCharCls == CHAR_SPACE) {
+                    match.waitNewWord = true;
+                    newMatches.push(match);
+                }
             }
             matches = newMatches;
         }
@@ -198,7 +201,7 @@
             rankMatch(matches[i], str, query);
         }
         matches.sort(function (x, y) { return y.rank - x.rank });
-        // console.log("Matches: " + JSON.stringify(matches));
+        //console.log("Matches: " + JSON.stringify(matches));
         return matches[0];
     }
 
