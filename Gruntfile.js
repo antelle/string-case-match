@@ -30,7 +30,8 @@
         copy: {
             src: {
                 files: [
-                    { expand: false, src: ["package.json"], dest: "build/package.json" }
+                    { expand: false, src: ["package.json"], dest: "build/package.json" },
+                    { expand: false, src: ["README.md"], dest: "build/README.md" }
                 ]
             }
         }
