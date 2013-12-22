@@ -52,10 +52,10 @@
         }
         var matches = matcher.matches(query);
         var items = "";
-        var maxItems = 20;
+        var maxItems = 10;
         for (var i = 0; i < matches.length; i++) {
             if (i >= maxItems) {
-                items += "<li class=\"list-group-item text-muted\">(first " + maxItems + "items shown of total " + matches.length + ")</li>";
+                items += "<li class=\"list-group-item text-muted\">(first " + maxItems + " items shown of " + matches.length + " matching)</li>";
                 break;
             }
             items += "<li class=\"list-group-item\">" + matches[i] + "</li>";
