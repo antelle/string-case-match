@@ -8,6 +8,8 @@
         $("[title]").tooltip();
         $("#search-list a").click(function(e) {
             e.preventDefault();
+            if ($(this).hasClass("active"))
+                return;
             $("#search-list a").removeClass("active");
             $(this).addClass("active");
             loadWordsList();
