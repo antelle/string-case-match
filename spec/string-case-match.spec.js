@@ -115,6 +115,36 @@
             expect(match.rank("hello-world", "h/w")).toBeFalsy();
         });
 
+        it("Matches space phrase strings by first letters", function() {
+            expect(match.rank("hello world", "hw")).toBeTruthy();
+            expect(match.rank("hello evil world", "he")).toBeTruthy();
+            expect(match.rank("hello evil world", "hew")).toBeTruthy();
+        });
+        it("Matches space phrase strings by first letters in middle words", function() {
+            expect(match.rank("hello world", "w")).toBeTruthy();
+            expect(match.rank("hello evil world", "ew")).toBeTruthy();
+        });
+        it("Matches space phrase strings by single word start letter", function() {
+            expect(match.rank("hello world", "h")).toBeTruthy();
+            expect(match.rank("hello world", "w")).toBeTruthy();
+            expect(match.rank("helloEvilWorld", "e")).toBeTruthy();
+        });
+        it("Matches space phrase strings by word parts", function() {
+            expect(match.rank("hello world", "hew")).toBeTruthy();
+            expect(match.rank("hello world", "hewo")).toBeTruthy();
+            expect(match.rank("hello world", "hwo")).toBeTruthy();
+            expect(match.rank("hello world", "hellow")).toBeTruthy();
+            expect(match.rank("hello world", "helloworld")).toBeTruthy();
+            expect(match.rank("hello world", "hellworld")).toBeTruthy();
+            expect(match.rank("hello world", "hellwor")).toBeTruthy();
+        });
+        it("Matches space phrase strings by letters with spaces", function() {
+            expect(match.rank("hello world", "h w")).toBeTruthy();
+        });
+        it("Doesn't match space phrase strings by letters with separators", function() {
+            expect(match.rank("hello world", "h-w")).toBeFalsy();
+        });
+
         it("Matches start of word", function() {
             expect(match.rank("hello", "he")).toBeTruthy();
             expect(match.rank("hello", "hell")).toBeTruthy();
@@ -126,6 +156,9 @@
         it("Matches part of word in the middle", function() {
             expect(match.rank("hello", "el")).toBeTruthy();
             expect(match.rank("trololo", "ol")).toBeTruthy();
+        });
+        it("Doesn't match part of word with next abbreviation", function() {
+            expect(match.rank("helloWorld", "elw")).toBeFalsy();
         });
 
         it("Matches single letter at start", function() {
@@ -182,6 +215,12 @@
         });
         it("Returns empty if nothing matches", function() {
             expect(new StringCaseMatch(["hello", "trololo"]).matches("bye")).toEqual([]);
+        });
+        it("Doesn't return nulls", function() {
+            expect(new StringCaseMatch(["hello", null]).matches("hell")).toEqual(["hello"]);
+        });
+        it("Doesn't return empty strings", function() {
+            expect(new StringCaseMatch(["hello", ""]).matches("hell")).toEqual(["hello"]);
         });
         it("Returns strings limited by top", function() {
             expect(new StringCaseMatch(["hello", "trololo"]).matches("lo", 1)).toEqual(["hello"]);

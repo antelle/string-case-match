@@ -160,8 +160,12 @@
                         if (equals) {
                             newMatches.push({ prev: match, pos: strIx, type: MATCH_TYPE_SEQUENCE, strict: strict });
                             continue;
-                        } else if (!match.prev && match.type == MATCH_TYPE_MIDDLE) {
-                            continue matchloop;
+                        } else {
+                            var firstMatchItem = match;
+                            while (firstMatchItem.prev)
+                                firstMatchItem = firstMatchItem.prev;
+                            if (firstMatchItem && firstMatchItem.type == MATCH_TYPE_MIDDLE)
+                                continue matchloop;
                         }
                     }
                     if (strCharCls == CHAR_SPACE || strCharCls == CHAR_SYMBOL) {
