@@ -1,6 +1,6 @@
 # string-case-match
 
-String matching class. Given a set of strings to match, will be able to search it by different input.  
+String matching class. Given a set of strings to match, it will search it by different input.  
 It is able to search strings as abbreviations (e.g. `HelloWorld` matches `hw`, `hewo`, `h w`, ...). Works in node.js and all modern browsers without any dependencies. This script is intended to use as ranking function for autocompletes, searches for short strings, etc.  
 
 ~~See the [live demo](http://antelle.github.io/string-case-match) page to play with it (under construction).~~
@@ -47,4 +47,4 @@ var rank = new StringCaseMatch().rank("hello-world", "hell");
 ```
 
 ## License 
-`string-case-match` is redistributed under [MIT license](https://raw.github.com/antelle/string-case-match/master/MIT-LICENSE.txt). So, you can use it in any projects without atribution.
+`string-case-match` is redistributed under [MIT license](https://raw.github.com/antelle/string-case-match/master/MIT-LICENSE.txt). So, you can use it in any projects without attribution.
