@@ -1,0 +1,1909 @@
+0 (number)|Digit Zero
+1 (number)|Digit One
+2 (number)|Digit Two
+3 (number)|Digit Three
+4 (number)|Digit Four
+5 (number)|Digit Five
+6 (number)|Digit Six
+7 (number)|Digit Seven
+8 (number)|Digit Eight
+9 (number)|Digit Nine
+A
+a
+A mistake for {{IPA|[œ]}}
+Acute accent
+Afghani Sign
+Airplane
+Alveolar approximant
+Alveolar lateral click (obsolete)
+Alveolar lateral flap
+Alveolar tap
+Alveolar trill
+Ampersand
+And with dot
+Anticlockwise gapped circle arrow
+Apostrophe
+Arabic Comma
+Arabic Date Separator
+Arabic Decimal Separator
+Arabic End of Ayah
+Arabic Five Pointed Star
+Arabic Footnote Marker
+Arabic Full Stop
+Arabic Inverted Damma
+Arabic Letter Ae
+Arabic Letter Ain
+Arabic Letter Ain with three dots above
+Arabic Letter Alef
+Arabic Letter Alef Maksura
+Arabic Letter Alef Wasla
+Arabic Letter Alef with hamza above
+Arabic Letter Alef with hamza below
+Arabic Letter Alef with madda above
+Arabic Letter Alef with wavy hamza above
+Arabic Letter Alef with wavy hamza below
+Arabic Letter Beeh
+Arabic Letter Beh
+Arabic Letter Beheh
+Arabic Letter Dad
+Arabic Letter Dad with dot below
+Arabic Letter Dahal
+Arabic Letter Dal
+Arabic Letter Dal with dot below
+Arabic Letter Dal with dot below and small tah
+Arabic Letter Dal with four dots above
+Arabic Letter Dal with inverted V
+Arabic Letter Dal with ring
+Arabic Letter Dal with three dots above downward
+Arabic Letter Ddal
+Arabic Letter Do chashmee heh
+Arabic Letter Dotless Beh
+Arabic Letter Dotless Feh
+Arabic Letter Dotless Qaf
+Arabic Letter Dyeh
+Arabic Letter E
+Arabic Letter Farsi Yeh
+Arabic Letter Feh
+Arabic Letter Feh with dot below
+Arabic Letter Feh with dot moved below
+Arabic Letter Feh with three dots below
+Arabic Letter Gaf with ring
+Arabic Letter Gaf with three dots above
+Arabic Letter Gaf with two dots below
+Arabic Letter Ghain
+Arabic Letter Ghain with dot below
+Arabic Letter Gueh
+Arabic Letter Hah
+Arabic Letter Hah with hamza above
+Arabic Letter Hah with three dots above
+Arabic Letter Hah with two dots vertical above
+Arabic Letter Hamza
+Arabic Letter Heh
+Arabic Letter Heh Goal
+Arabic Letter Heh Goal with hamza above
+Arabic Letter Heh with inverted V
+Arabic Letter Heh with Yeh above
+Arabic Letter High Hamza
+Arabic Letter High Hamza Alef
+Arabic Letter High Hamza Waw
+Arabic Letter High Hamza Yeh
+Arabic Letter Jeem
+Arabic Letter Jeh
+Arabic Letter Kaf
+Arabic Letter Kaf with dot above
+Arabic Letter Kaf with ring
+Arabic Letter Kaf with three dots below
+Arabic Letter Keheh
+Arabic Letter Khah
+Arabic Letter Kirghiz Oe
+Arabic Letter Kirghiz Yu
+Arabic Letter Lam
+Arabic Letter Lam with dot above
+Arabic Letter Lam with small V
+Arabic Letter Lam with three dots above
+Arabic Letter Lam with three dots below
+Arabic Letter Meem
+Arabic Letter Ng
+Arabic Letter Ngoeh
+Arabic Letter Noon
+Arabic Letter Noon Ghunna
+Arabic Letter Noon with dot below
+Arabic Letter Noon with ring
+Arabic Letter Noon with three dots above
+Arabic Letter Nyeh
+Arabic Letter Oe
+Arabic Letter Peheh
+Arabic Letter Qaf
+Arabic Letter Qaf with dot above
+Arabic Letter Qaf with three dots above
+Arabic Letter Reh
+Arabic Letter Reh with dot below
+Arabic Letter Reh with dot below and dot above
+Arabic Letter Reh with four dots above
+Arabic Letter Reh with inverted V
+Arabic Letter Reh with ring
+Arabic Letter Reh with small V
+Arabic Letter Reh with small V below
+Arabic Letter Reh with two dots above
+Arabic Letter Rnoon
+Arabic Letter Sad
+Arabic Letter Sad with three dots above
+Arabic Letter Sad with two dots below
+Arabic Letter Seen
+Arabic Letter Seen with dot below and dot above
+Arabic Letter Seen with three dots below
+Arabic Letter Seen with three dots below and three dots above
+Arabic Letter Sheen
+Arabic Letter Sheen with dot below
+Arabic Letter Swash Kaf
+Arabic Letter Tah
+Arabic Letter Tah with three dots above
+Arabic Letter Tcheh with dot above
+Arabic Letter Tcheheh
+Arabic Letter Teh
+Arabic Letter Teh Marbuta
+Arabic Letter Teh Marbuta Goal
+Arabic Letter Teh with ring
+Arabic Letter Teh with three dots above downward
+Arabic Letter Teheh
+Arabic Letter Thal
+Arabic Letter The
+Arabic Letter Tteh
+Arabic Letter Tteheh
+Arabic Letter U
+Arabic Letter U with hamza above
+Arabic Letter Ve
+Arabic Letter Waw
+Arabic Letter Waw with dot above
+Arabic Letter Waw with hamza above
+Arabic Letter Waw with ring
+Arabic Letter Waw with two dots above
+Arabic Letter Yeh
+Arabic Letter Yeh Barree
+Arabic Letter Yeh Barree with hamza above
+Arabic Letter Yeh with hamza above
+Arabic Letter Yeh with small V
+Arabic Letter Yeh with tail
+Arabic Letter Yeh with three dots below
+Arabic Letter Yu
+Arabic Letter Zah
+Arabic Letter Zay
+Arabic Percent Sign
+Arabic Place of Sajdah
+Arabic Poetic Verse Sign
+Arabic Punctuation Sign
+Arabic Question Mark
+Arabic Semicolon
+Arabic Sign Alayhe Assallam
+Arabic Sign Misra
+Arabic Sign Radi Allahou Anhu
+Arabic Sign Radi Takhallus
+Arabic Sign Rahmatullah Alayhe
+Arabic Sign Safah
+Arabic Sign Sallallahou Alayhe Wassallam
+Arabic Sign Sanah
+Arabic Sign Sindhi Ampersand
+Arabic Sign Sindhi Postposition Men
+Arabic Small Waw
+Arabic Small Yeh
+Arabic Star of Rub El Hizb
+Arabic Subscript Alef
+Arabic Tatweel
+Arabic Thousands Separator
+Arabic Triple Dot Punctuation Mark
+Arabic Zwarakay
+Arabic-Indic Digit Eight
+Arabic-Indic Digit Five
+Arabic-Indic Digit Four
+Arabic-Indic Digit Nine
+Arabic-Indic Digit One
+Arabic-Indic Digit Seven
+Arabic-Indic Digit Six
+Arabic-Indic Digit Three
+Arabic-Indic Digit Two
+Arabic-Indic Digit Zero
+Asterisk
+At sign
+A|Latin Capital letter A
+B
+b
+Back-tilted shadowed white rightward arrow
+Backslash
+Balloon spoked asterisk
+Ballot X
+Bidental percussive
+Bilabial click
+Bilabial percussive
+Bilabial trill
+Black center white star
+Black circle
+Black diamond
+Black diamond minus white X
+Black down-pointing small triangle
+Black down-pointing triangle
+Black florette
+Black four-pointed star
+Black left-pointing pointer
+Black left-pointing small triangle
+Black left-pointing triangle
+Black lower left triangle
+Black lower right triangle
+Black medium small square
+Black medium square
+Black nib
+Black parallelogram
+Black question mark ornament
+Black rectangle
+Black right-pointing pointer
+Black right-pointing small triangle
+Black right-pointing triangle
+Black rightward arrow
+Black rightward arrowhead
+Black scissors
+Black small square
+Black square
+Black up-pointing small triangle
+Black up-pointing triangle
+Black upper left triangle
+Black upper right triangle
+Black vertical rectangle
+Black-feathered north east arrow
+Black-feathered rightward arrow
+Black-feathered south east arrow
+Bracket#Box brackets or square brackets .5B .5D|Left Square Bracket
+Bracket#Box brackets or square brackets .5B .5D|Right Square Bracket
+Bracket#Curly brackets or braces .7B .7D|Left Curly Bracket
+Bracket#Curly brackets or braces .7B .7D|Right Curly Bracket
+Bracket#Parentheses|Left parenthesis
+Bracket#Parentheses|Right parenthesis
+Breve
+Bullseye
+B|Latin Capital letter B
+C
+c
+Caron
+Cedilla
+Cent (currency)|Cent sign
+Check mark
+Circle with all but upper left quadrant black
+Circle with left half black
+Circle with lower half black
+Circle with right half black
+Circle with upper half black
+Circle with upper right quadrant black
+Circle with vertical fill
+Circled heavy white rightward arrow
+Circled open center eight pointed star
+Circled white star
+Circumflex accent
+Clockwise gapped circle arrow
+Close back unrounded vowel
+Close central rounded vowel
+Close central unrounded vowel
+Close-mid back unrounded vowel
+Close-mid central rounded vowel
+Close-mid central unrounded vowel
+Colon (punctuation)|Colon
+Combining Cyrillic Hundred Thousands Sign
+Combining Cyrillic Millions Sign
+Comma (punctuation)|Comma
+Coptic Capital Letter Dei
+Coptic Capital Letter Fei
+Coptic Capital Letter Gangia
+Coptic Capital Letter Hori
+Coptic Capital Letter Khei
+Coptic Capital Letter Shei
+Coptic Capital Letter Shima
+Coptic Small Letter Dei
+Coptic Small Letter Fei
+Coptic Small Letter Gangia
+Coptic Small Letter Hori
+Coptic Small Letter Khei
+Coptic Small Letter Shei
+Coptic Small Letter Shima
+Copyright|Copyright sign
+Cross mark
+Curly loop
+Currency (typography)|Currency sign
+Curved stem paragraph sign ornament
+Cyrillic Capital Letter A
+Cyrillic Capital Letter A with breve
+Cyrillic Capital Letter A with diaeresis
+Cyrillic Capital Letter Abkhazian Che
+Cyrillic Capital Letter Abkhazian Che with descender
+Cyrillic Capital Letter Abkhazian Dze
+Cyrillic Capital Letter Abkhazian Ha
+Cyrillic Capital Letter Barred O
+Cyrillic Capital Letter Barred O with diaeresis
+Cyrillic Capital Letter Bashkir Ka
+Cyrillic Capital Letter Be
+Cyrillic Capital Letter Big Yus
+Cyrillic Capital Letter Byelorussian-Ukrainian I
+Cyrillic Capital Letter Che
+Cyrillic Capital Letter Che with descender
+Cyrillic Capital Letter Che with diaeresis
+Cyrillic Capital Letter Che with vertical stroke
+Cyrillic Capital Letter De
+Cyrillic Capital Letter Dje
+Cyrillic Capital Letter Dze
+Cyrillic Capital Letter Dzhe
+Cyrillic Capital Letter E
+Cyrillic Capital Letter E with diaeresis
+Cyrillic Capital Letter Ef
+Cyrillic Capital Letter El
+Cyrillic Capital Letter El with tail
+Cyrillic Capital Letter Em
+Cyrillic Capital Letter Em with tail
+Cyrillic Capital Letter En
+Cyrillic Capital Letter En with descender
+Cyrillic Capital Letter En with hook
+Cyrillic Capital Letter En with tail
+Cyrillic Capital Letter Er
+Cyrillic Capital Letter Er with tick
+Cyrillic Capital Letter Es
+Cyrillic Capital Letter Es with descender
+Cyrillic Capital Letter Fita
+Cyrillic Capital Letter Ghe
+Cyrillic Capital Letter Ghe with descender
+Cyrillic Capital Letter Ghe with middle hook
+Cyrillic Capital Letter Ghe with stroke
+Cyrillic Capital Letter Ghe with stroke and hook
+Cyrillic Capital Letter Ghe with upturn
+Cyrillic Capital Letter Gje
+Cyrillic Capital Letter Ha
+Cyrillic Capital Letter Ha with descender
+Cyrillic Capital Letter Ha with hook
+Cyrillic Capital Letter Ha with stroke
+Cyrillic Capital Letter Hard Sign
+Cyrillic Capital Letter I
+Cyrillic Capital Letter I with diaeresis
+Cyrillic Capital Letter I with grave
+Cyrillic Capital Letter I with macron
+Cyrillic Capital Letter Ie
+Cyrillic Capital Letter Ie with breve
+Cyrillic Capital Letter Io
+Cyrillic Capital Letter Iotified Big Yus
+Cyrillic Capital Letter Iotified E
+Cyrillic Capital Letter Iotified Little Yus
+Cyrillic Capital Letter Izhitsa
+Cyrillic Capital Letter Izhitsa with double grave accent
+Cyrillic Capital Letter Je
+Cyrillic Capital Letter Ka
+Cyrillic Capital Letter Ka with descender
+Cyrillic Capital Letter Ka with hook
+Cyrillic Capital Letter Ka with stroke
+Cyrillic Capital Letter Ka with vertical stroke
+Cyrillic Capital Letter Khakassian Che
+Cyrillic Capital Letter Kje
+Cyrillic Capital Letter Koppa
+Cyrillic Capital Letter Ksi
+Cyrillic Capital Letter Little Yus
+Cyrillic Capital Letter Lje
+Cyrillic Capital Letter Nje
+Cyrillic Capital Letter O
+Cyrillic Capital Letter O with diaeresis
+Cyrillic Capital Letter Omega
+Cyrillic Capital Letter Omega with Titlo
+Cyrillic Capital Letter Ot
+Cyrillic Capital Letter Pe
+Cyrillic Capital Letter Pe with middle hook
+Cyrillic Capital Letter Psi
+Cyrillic Capital Letter Round Omega
+Cyrillic Capital Letter Schwa
+Cyrillic Capital Letter Schwa with diaeresis
+Cyrillic Capital Letter Semisoft Sign
+Cyrillic Capital Letter Sha
+Cyrillic Capital Letter Shcha
+Cyrillic Capital Letter Shha
+Cyrillic Capital Letter Short I
+Cyrillic Capital Letter Short I with tail
+Cyrillic Capital Letter Short U
+Cyrillic Capital Letter Soft Sign
+Cyrillic Capital Letter Straight U
+Cyrillic Capital Letter Straight U with stroke
+Cyrillic Capital Letter Te
+Cyrillic Capital Letter Te with descender
+Cyrillic Capital Letter Tse
+Cyrillic Capital Letter Tshe
+Cyrillic Capital Letter U
+Cyrillic Capital Letter U with diaeresis
+Cyrillic Capital Letter U with double acute
+Cyrillic Capital Letter U with macron
+Cyrillic Capital Letter Uk
+Cyrillic Capital Letter Ukrainian Ie
+Cyrillic Capital Letter Ve
+Cyrillic Capital Letter Ya
+Cyrillic Capital Letter Yat
+Cyrillic Capital Letter Yeru
+Cyrillic Capital Letter Yeru with diaeresis
+Cyrillic Capital Letter Yi
+Cyrillic Capital Letter Yu
+Cyrillic Capital Letter Ze
+Cyrillic Capital Letter Ze with descender
+Cyrillic Capital Letter Ze with diaeresis
+Cyrillic Capital Letter Zhe
+Cyrillic Capital Letter Zhe with breve
+Cyrillic Capital Letter Zhe with descender
+Cyrillic Capital Letter Zhe with diaeresis
+Cyrillic Capital Ligature A Ie
+Cyrillic Capital Ligature En Ghe
+Cyrillic Capital Ligature Te Tse
+Cyrillic Letter Palochka
+Cyrillic Small Letter A
+Cyrillic Small Letter A with breve
+Cyrillic Small Letter A with diaeresis
+Cyrillic Small Letter Abkhazian Che
+Cyrillic Small Letter Abkhazian Che with descender
+Cyrillic Small Letter Abkhazian Dze
+Cyrillic Small Letter Abkhazian Ha
+Cyrillic Small Letter Barred O
+Cyrillic Small Letter Barred O with diaeresis
+Cyrillic Small Letter Bashkir Ka
+Cyrillic Small Letter Be
+Cyrillic Small Letter Big Yus
+Cyrillic Small Letter Byelorussian-Ukrainian I
+Cyrillic Small Letter Che
+Cyrillic Small Letter Che with descender
+Cyrillic Small Letter Che with diaeresis
+Cyrillic Small Letter Che with vertical stroke
+Cyrillic Small Letter De
+Cyrillic Small Letter Dje
+Cyrillic Small Letter Dze
+Cyrillic Small Letter Dzhe
+Cyrillic Small Letter E
+Cyrillic Small Letter E with diaeresis
+Cyrillic Small Letter Ef
+Cyrillic Small Letter El
+Cyrillic Small Letter El with tail
+Cyrillic Small Letter Em
+Cyrillic Small Letter Em with tail
+Cyrillic Small Letter En
+Cyrillic Small Letter En with descender
+Cyrillic Small Letter En with hook
+Cyrillic Small Letter En with tail
+Cyrillic Small Letter Er
+Cyrillic Small Letter Er with tick
+Cyrillic Small Letter Es
+Cyrillic Small Letter Es with descender
+Cyrillic Small Letter Fita
+Cyrillic Small Letter Ghe
+Cyrillic Small Letter Ghe with descender
+Cyrillic Small Letter Ghe with middle hook
+Cyrillic Small Letter Ghe with stroke
+Cyrillic Small Letter Ghe with stroke and hook
+Cyrillic Small Letter Ghe with upturn
+Cyrillic Small Letter Gje
+Cyrillic Small Letter Ha
+Cyrillic Small Letter Ha with descender
+Cyrillic Small Letter Ha with hook
+Cyrillic Small Letter Ha with stroke
+Cyrillic Small Letter Hard Sign
+Cyrillic Small Letter I
+Cyrillic Small Letter I with diaeresis
+Cyrillic Small Letter I with grave
+Cyrillic Small Letter I with macron
+Cyrillic Small Letter Ie
+Cyrillic Small Letter Ie with breve
+Cyrillic Small Letter Io
+Cyrillic Small Letter Iotified Big Yus
+Cyrillic Small Letter Iotified E
+Cyrillic Small Letter Iotified Little Yus
+Cyrillic Small Letter Izhitsa
+Cyrillic Small Letter Izhitsa with double grave accent
+Cyrillic Small Letter Je
+Cyrillic Small Letter Ka
+Cyrillic Small Letter Ka with descender
+Cyrillic Small Letter Ka with hook
+Cyrillic Small Letter Ka with stroke
+Cyrillic Small Letter Ka with vertical stroke
+Cyrillic Small Letter Khakassian Che
+Cyrillic Small Letter Kje
+Cyrillic Small Letter Koppa
+Cyrillic Small Letter Ksi
+Cyrillic Small Letter Little Yus
+Cyrillic Small Letter Lje
+Cyrillic Small Letter Nje
+Cyrillic Small Letter O
+Cyrillic Small Letter O with diaeresis
+Cyrillic Small Letter Omega
+Cyrillic Small Letter Omega with Titlo
+Cyrillic Small Letter Ot
+Cyrillic Small Letter Palochka
+Cyrillic Small Letter Pe
+Cyrillic Small Letter Pe with middle hook
+Cyrillic Small Letter Psi
+Cyrillic Small Letter Round Omega
+Cyrillic Small Letter Schwa
+Cyrillic Small Letter Schwa with diaeresis
+Cyrillic Small Letter Semisoft Sign
+Cyrillic Small Letter Sha
+Cyrillic Small Letter Shcha
+Cyrillic Small Letter Shha
+Cyrillic Small Letter Short I
+Cyrillic Small Letter Short I with tail
+Cyrillic Small Letter Short U
+Cyrillic Small Letter Soft Sign
+Cyrillic Small Letter Straight U
+Cyrillic Small Letter Straight U with stroke
+Cyrillic Small Letter Te
+Cyrillic Small Letter Te with descender
+Cyrillic Small Letter Tse
+Cyrillic Small Letter Tshe
+Cyrillic Small Letter U
+Cyrillic Small Letter U with diaeresis
+Cyrillic Small Letter U with double acute
+Cyrillic Small Letter U with macron
+Cyrillic Small Letter Uk
+Cyrillic Small Letter Ukrainian Ie
+Cyrillic Small Letter Ve
+Cyrillic Small Letter Ya
+Cyrillic Small Letter Yat
+Cyrillic Small Letter Yeru
+Cyrillic Small Letter Yeru with diaeresis
+Cyrillic Small Letter Yi
+Cyrillic Small Letter Yu
+Cyrillic Small Letter Ze
+Cyrillic Small Letter Ze with descender
+Cyrillic Small Letter Ze with diaeresis
+Cyrillic Small Letter Zhe
+Cyrillic Small Letter Zhe with breve
+Cyrillic Small Letter Zhe with descender
+Cyrillic Small Letter Zhe with diaeresis
+Cyrillic Small Ligature A Ie
+Cyrillic Small Ligature En Ghe
+Cyrillic Small Ligature Te Tse
+Cyrillic Thousands Sign
+C|Latin Capital letter C
+D
+d
+Dark shade
+Dashed triangle-headed rightward arrow
+Degree symbol
+Dental click (obsolete)
+Dingbat circled sans-serif digit eight
+Dingbat circled sans-serif digit five
+Dingbat circled sans-serif digit four
+Dingbat circled sans-serif digit nine
+Dingbat circled sans-serif digit one
+Dingbat circled sans-serif digit seven
+Dingbat circled sans-serif digit six
+Dingbat circled sans-serif digit ten
+Dingbat circled sans-serif digit three
+Dingbat circled sans-serif digit two
+Dingbat negative circled digit eight
+Dingbat negative circled digit five
+Dingbat negative circled digit four
+Dingbat negative circled digit nine
+Dingbat negative circled digit one
+Dingbat negative circled digit seven
+Dingbat negative circled digit six
+Dingbat negative circled digit ten
+Dingbat negative circled digit three
+Dingbat negative circled digit two
+Dingbat negative circled sans-serif digit eight
+Dingbat negative circled sans-serif digit five
+Dingbat negative circled sans-serif digit four
+Dingbat negative circled sans-serif digit nine
+Dingbat negative circled sans-serif digit one
+Dingbat negative circled sans-serif digit seven
+Dingbat negative circled sans-serif digit six
+Dingbat negative circled sans-serif digit ten
+Dingbat negative circled sans-serif digit three
+Dingbat negative circled sans-serif digit two
+Dot Above
+Dotted circle
+Double Acute Accent
+Double acute accent|Latin Capital Letter O with double acute
+Double acute accent|Latin Capital Letter U with double acute
+Double acute accent|Latin Small Letter O with double acute
+Double acute accent|Latin Small Letter U with double acute
+Double curly loop
+Downward quadruple arrow
+Drafting point rightward arrow
+D|Latin Capital letter D
+E
+e
+Eight petalled outlined black florette
+Eight pointed black star
+Eight pointed pinwheel star
+Eight pointed rectilinear black star
+Eight spoked asterisk
+Eight teardrop spoked propeller asterisk
+Element of opening upward
+Envelope
+Epiglottal plosive
+Equal sign
+Eth|Latin Capital letter Eth
+Extended Arabic-Indic Digit Eight
+Extended Arabic-Indic Digit Five
+Extended Arabic-Indic Digit Four
+Extended Arabic-Indic Digit Nine
+Extended Arabic-Indic Digit One
+Extended Arabic-Indic Digit Seven
+Extended Arabic-Indic Digit Six
+Extended Arabic-Indic Digit Three
+Extended Arabic-Indic Digit Two
+Extended Arabic-Indic Digit Zero
+E|Latin Capital letter E
+F
+f
+Fisheye
+Floral heart
+Four balloon-spoked asterisk
+Four club-spoked asterisk
+Four teardrop-spoked asterisk
+Front-tilted shadowed white rightward arrow
+Full block
+Full outer join
+Full stop
+F|Latin Capital letter F
+G
+g
+Glottal stop
+Grave accent
+Greater-than sign
+Greek acute accent
+Greek Ano Teleia
+Greek Beta Symbol
+Greek Capital Dotted Lunate Sigma Symbol
+Greek Capital Letter A with acute accent
+Greek Capital Letter Alpha
+Greek Capital Letter Beta
+Greek Capital Letter Chi
+Greek Capital Letter Delta
+Greek Capital Letter Epsilon
+Greek Capital Letter Epsilon with acute accent
+Greek Capital Letter Eta
+Greek Capital Letter Eta with acute accent
+Greek Capital Letter Gamma
+Greek Capital Letter Iota
+Greek Capital Letter Iota with acute accent
+Greek Capital Letter Iota with diaeresis
+Greek Capital Letter Kappa
+Greek Capital Letter Lambda
+Greek Capital Letter Mu
+Greek Capital Letter Nu
+Greek Capital Letter Omega
+Greek Capital Letter Omega with acute accent
+Greek Capital Letter Omicron
+Greek Capital Letter Omicron with acute accent
+Greek Capital Letter Phi
+Greek Capital Letter Pi
+Greek Capital Letter Psi
+Greek Capital Letter Rho
+Greek Capital Letter Sigma
+Greek Capital Letter Tau
+Greek Capital Letter Theta
+Greek Capital Letter Upsilon
+Greek Capital Letter Upsilon with acute accent
+Greek Capital Letter Upsilon with diaeresis
+Greek Capital Letter Xi
+Greek Capital Letter Zeta
+Greek Capital Lunate Sigma Symbol
+Greek Capital Reversed Dotted Lunate Sigma Symbol
+Greek Capital Reversed Lunate Sigma Symbol
+Greek Capital San (letter)|San
+Greek Capital Sho (letter)|Sho
+Greek Capital Theta Symbol
+Greek Diaeresis (diacritic)|diaeresis with acute accent
+Greek Kai Symbol
+Greek Kappa Symbol
+Greek Letter Digamma
+Greek Letter Koppa
+Greek Letter Qoppa
+Greek Letter Sampi
+Greek Letter Stigma (letter)
+Greek Letter Yot
+Greek Lower Numeral Sign
+Greek Lunate Epsilon Symbol
+Greek Lunate Sigma Symbol
+Greek Numeral Sign
+Greek Phi Symbol
+Greek Pi Symbol
+Greek Question Mark
+Greek Reversed Lunate Epsilon Symbol
+Greek Rho Symbol
+Greek Rho with stroke Symbol
+Greek Small Dotted Lunate Sigma Symbol
+Greek Small Letter Alpha
+Greek Small Letter Alpha with acute accent
+Greek Small Letter Beta
+Greek Small Letter Chi
+Greek Small Letter Delta
+Greek Small Letter Digamma
+Greek Small Letter Epsilon
+Greek Small Letter Epsilon with acute accent
+Greek Small Letter Eta
+Greek Small Letter Eta with acute accent
+Greek Small Letter Final Sigma
+Greek Small Letter Gamma
+Greek Small Letter Iota
+Greek Small Letter Iota with acute accent
+Greek Small Letter Iota with diaeresis
+Greek Small Letter Iota with diaeresis and acute accent
+Greek Small Letter Kappa
+Greek Small Letter Koppa
+Greek Small Letter Lambda
+Greek Small Letter Mu
+Greek Small Letter Nu
+Greek Small Letter Omega
+Greek Small Letter Omega with acute accent
+Greek Small Letter Omicron
+Greek Small Letter Omicron with acute accent
+Greek Small Letter Phi
+Greek Small Letter Pi
+Greek Small Letter Psi
+Greek Small Letter Qoppa
+Greek Small Letter Rho
+Greek Small Letter Sampi
+Greek Small Letter San
+Greek Small Letter Sho
+Greek Small Letter Sigma
+Greek Small Letter Stigma
+Greek Small Letter Tau
+Greek Small Letter Theta
+Greek Small Letter Upsilon
+Greek Small Letter Upsilon with acute accent
+Greek Small Letter Upsilon with diaeresis
+Greek Small Letter Upsilon with diaeresis and acute accent
+Greek Small Letter Xi
+Greek Small Letter Zeta
+Greek Small Reversed Dotted Lunate Sigma Symbol
+Greek Small Reversed Lunate Sigma Symbol
+Greek Theta Symbol
+Greek Upsilon with acute and hook Symbol
+Greek Upsilon with diaeresis and hook Symbol
+Greek Upsilon with hook Symbol
+Greek Ypogegrammeni
+Guillemets|Left-pointing double angle quotation mark
+Guillemets|Right-pointing double angle quotation mark
+G|Latin Capital letter G
+H
+h
+Heavy asterisk
+Heavy ballot X
+Heavy black curved downward and rightward arrow
+Heavy black curved upward and rightward arrow
+Heavy black heart
+Heavy black-feathered north east arrow
+Heavy black-feathered rightward arrow
+Heavy black-feathered south east arrow
+Heavy check mark
+Heavy chevron snowflake
+Heavy concave-pointed black rightward arrow
+Heavy dashed triangle-headed rightward arrow
+Heavy double comma quotation mark ornament
+Heavy double turned comma quotation mark ornament
+Heavy eight pointed rectilinear black star
+Heavy eight teardrop spoked propeller asterisk
+Heavy exclamation mark ornament
+Heavy exclamation mark symbol
+Heavy four balloon-spoked asterisk
+Heavy Greek cross
+Heavy heart exclamation mark ornament
+Heavy left-pointing angle bracket ornament
+Heavy left-pointing angle quotation mark ornament
+Heavy low double comma quotation mark ornament
+Heavy low single comma quotation mark ornament
+Heavy lower right-shadowed white rightward arrow
+Heavy multiplication X
+Heavy north east arrow
+Heavy open center cross
+Heavy outlined black star
+Heavy right-pointing angle bracket ornament
+Heavy right-pointing angle quotation mark ornament
+Heavy rightward arrow
+Heavy round-tipped rightward arrow
+Heavy single comma quotation mark ornament
+Heavy single turned comma quotation mark ornament
+Heavy south east arrow
+Heavy sparkle
+Heavy teardrop spoked asterisk
+Heavy teardrop spoked pinwheel asterisk
+Heavy teardrop-shanked rightward arrow
+Heavy triangle-headed rightward arrow
+Heavy upper right-shadowed white rightward arrow
+Heavy vertical bar
+Heavy wedge-tailed rightward arrow
+Heavy wide-headed rightward arrow
+Hebrew Letter Aleph|Alef
+Hebrew Letter Ayin
+Hebrew Letter Bet (letter)|Bet
+Hebrew Letter Dalet
+Hebrew Letter Final Kaf
+Hebrew Letter Final Mem
+Hebrew Letter Final Nun
+Hebrew Letter Final Pe
+Hebrew Letter Final Tsadi
+Hebrew Letter Gimel
+Hebrew Letter He (letter)|He
+Hebrew Letter Heth|Het
+Hebrew Letter Kaph|Kaf
+Hebrew Letter Lamedh|Lamed
+Hebrew Letter Mem
+Hebrew Letter Nun (letter)|Nun
+Hebrew Letter Pe (letter)|Pe
+Hebrew Letter Qoph|Qof
+Hebrew Letter Resh
+Hebrew Letter Samekh
+Hebrew Letter Shin (letter)|Shin
+Hebrew Letter Taw|Tav
+Hebrew Letter Teth|Tet
+Hebrew Letter Tsade|Tsadi
+Hebrew Letter Waw (letter)|Vav
+Hebrew Letter Yodh|Yod
+Hebrew Letter Zayin
+Hebrew Ligature Yiddish Double Vav
+Hebrew Ligature Yiddish Double Yod
+Hebrew Ligature Yiddish Vav Yod
+Hebrew Punctuation Geresh
+Hebrew Punctuation Gershayim
+Hebrew Punctuation Maqaf
+Hebrew Punctuation Nun Hafukha
+Hebrew Punctuation Paseq
+Hebrew Punctuation Sof Pasuq
+Hyphen-minus
+H|Latin Capital letter H
+I
+i
+İ
+Interpunct|Middle dot
+Inverse bullet
+Inverse white circle
+Inverted question mark and exclamation point|Inverted Exclamation Mark
+Inverted question mark and exclamation point|Inverted Question Mark
+IPA No.
+IPA No.
+IPA phonetic description
+IPA phonetic description
+I|Latin Capital letter I
+J
+j
+J|Latin Capital letter J
+K
+k
+Kurdi Letter Veh
+K|Latin Capital letter K
+L
+l
+Labial-palatal approximant
+Labiodental approximant
+Labiodental nasal
+Large circle
+Large down tack
+Large up tack
+Latin Capital Letter A with breve
+Latin Capital Letter A with caron
+Latin Capital Letter A with diaeresis and macron
+Latin Capital Letter A with dot above
+Latin Capital Letter A with dot above and macron
+Latin Capital Letter A with double grave
+Latin Capital Letter A with grave
+Latin Capital Letter A with inverted breve
+Latin Capital Letter A with macron
+Latin Capital Letter A with ogonek
+Latin Capital Letter A with ring above and acute
+Latin Capital Letter A with stroke
+Latin Capital Letter African D
+Latin Capital Letter B with hook
+Latin Capital Letter B with stroke
+Latin Capital Letter B with top bar
+Latin Capital Letter C with acute
+Latin Capital Letter C with caron
+Latin Capital Letter C with circumflex
+Latin Capital Letter C with dot above
+Latin Capital Letter C with hook
+Latin Capital Letter C with stroke
+Latin Capital Letter D with caron
+Latin Capital Letter D with hook
+Latin Capital Letter D with Small Letter Z
+Latin Capital Letter D with Small Letter Z with caron
+Latin Capital Letter D with stroke
+Latin Capital Letter D with top bar
+Latin Capital Letter DZ
+Latin Capital Letter DZ with caron
+Latin Capital Letter E with breve
+Latin Capital Letter E with caron
+Latin Capital Letter E with cedilla
+Latin Capital Letter E with dot above
+Latin Capital Letter E with double grave
+Latin Capital Letter E with inverted breve
+Latin Capital Letter E with macron
+Latin Capital Letter E with ogonek
+Latin Capital Letter E with stroke
+Latin Capital Letter Eng
+Latin Capital Letter Esh (letter)|Esh
+Latin Capital Letter Ezh (letter)|Ezh
+Latin Capital Letter Ezh reversed
+Latin Capital Letter Ezh with caron
+Latin Capital Letter F with hook
+Latin Capital Letter G with acute
+Latin Capital Letter G with breve
+Latin Capital Letter G with caron
+Latin Capital Letter G with cedilla
+Latin Capital Letter G with circumflex
+Latin Capital Letter G with dot above
+Latin Capital Letter G with hook
+Latin Capital Letter G with stroke
+Latin Capital Letter Gamma
+Latin Capital Letter Glottal Stop
+Latin Capital Letter H with caron
+Latin Capital Letter H with circumflex
+Latin Capital Letter H with stroke
+Latin Capital Letter Hwair
+Latin Capital Letter I with breve
+Latin Capital Letter I with caron
+Latin Capital Letter I with dot above
+Latin Capital Letter I with double grave
+Latin Capital Letter I with inverted breve
+Latin Capital Letter I with macron
+Latin Capital Letter I with ogonek
+Latin Capital Letter I with stroke
+Latin Capital Letter I with tilde
+Latin Capital Letter Iota
+Latin Capital Letter J with circumflex
+Latin Capital Letter J with stroke
+Latin Capital Letter K with caron
+Latin Capital Letter K with cedilla
+Latin Capital Letter K with hook
+Latin Capital Letter L with acute
+Latin Capital Letter L with bar
+Latin Capital Letter L with caron
+Latin Capital Letter L with cedilla
+Latin Capital Letter L with middle dot
+Latin Capital Letter L with Small Letter J
+Latin Capital Letter L with stroke
+Latin Capital Letter LJ
+Latin Capital Letter N with acute
+Latin Capital Letter N with caron
+Latin Capital Letter N with cedilla
+Latin Capital Letter N with grave
+Latin Capital Letter N with left hook
+Latin Capital Letter N with long right leg
+Latin Capital Letter N with Small Letter J
+Latin Capital Letter NJ
+Latin Capital Letter O with breve
+Latin Capital Letter O with caron
+Latin Capital Letter O with diaeresis and macron
+Latin Capital Letter O with dot above
+Latin Capital Letter O with dot above and macron
+Latin Capital Letter O with double grave
+Latin Capital Letter O with horn
+Latin Capital Letter O with inverted breve
+Latin Capital Letter O with macron
+Latin Capital Letter O with middle tilde
+Latin Capital Letter O with ogonek
+Latin Capital Letter O with ogonek and macron
+Latin Capital Letter O with stroke and acute
+Latin Capital Letter O with tilde and macron
+Latin Capital Letter OI (= Latin Capital Letter Gha)
+Latin Capital Letter Open E
+Latin Capital Letter Open O
+Latin Capital Letter Ou (ligature)|OU
+Latin Capital Letter P with hook
+Latin Capital Letter Q with hook tail
+Latin Capital Letter R with acute
+Latin Capital Letter R with caron
+Latin Capital Letter R with cedilla
+Latin Capital Letter R with double grave
+Latin Capital Letter R with inverted breve
+Latin Capital Letter R with stroke
+Latin Capital Letter Reversed E
+Latin Capital Letter S with acute
+Latin Capital Letter S with caron
+Latin Capital Letter S with cedilla
+Latin Capital Letter S with circumflex
+Latin Capital Letter S with comma below
+Latin Capital Letter Schwa
+Latin Capital Letter T with caron
+Latin Capital Letter T with cedilla
+Latin Capital Letter T with comma below
+Latin Capital Letter T with diagonal stroke
+Latin Capital Letter T with hook
+Latin Capital Letter T with retroflex hook
+Latin Capital Letter T with stroke
+Latin Capital Letter Tone Five
+Latin Capital Letter Tone Six
+Latin Capital Letter Tone Two
+Latin Capital Letter Turned M
+Latin Capital Letter Turned V
+Latin Capital Letter U bar
+Latin Capital Letter U with breve
+Latin Capital Letter U with caron
+Latin Capital Letter U with diaeresis and acute
+Latin Capital Letter U with diaeresis and caron
+Latin Capital Letter U with diaeresis and grave
+Latin Capital Letter U with diaeresis and macron
+Latin Capital Letter U with double grave
+Latin Capital Letter U with horn
+Latin Capital Letter U with inverted breve
+Latin Capital Letter U with macron
+Latin Capital Letter U with ogonek
+Latin Capital Letter U with ring above
+Latin Capital Letter U with tilde
+Latin Capital Letter Upsilon
+Latin Capital Letter V with hook
+Latin Capital Letter W with circumflex
+Latin Capital Letter Wynn
+Latin Capital Letter Y with circumflex
+Latin Capital Letter Y with diaeresis
+Latin Capital Letter Y with hook
+Latin Capital Letter Y with macron
+Latin Capital Letter Y with stroke
+Latin Capital Letter Yogh
+Latin Capital Letter Z with acute
+Latin Capital Letter Z with caron
+Latin Capital Letter Z with dot above
+Latin Capital Letter Z with hook
+Latin Capital Letter Z with stroke
+Latin Capital Letter Æ with acute
+Latin Capital Letter Æ with macron
+Latin Capital Ligature IJ
+Latin Capital Ligature OE
+Latin cross
+Latin Letter Alveolar Click
+Latin Letter Bidental Percussive
+Latin Letter Bilabial Click
+Latin Letter Bilabial Percussive
+Latin Letter Dental Click
+Latin Letter Glottal Stop
+Latin Letter Glottal Stop with stroke
+Latin Letter Inverted Glottal Stop
+Latin Letter Inverted Glottal Stop with stroke
+Latin Letter Lateral Click
+Latin Letter Pharyngeal Voiced Fricative
+Latin Letter Retroflex Click
+Latin Letter Reversed Esh Loop
+Latin Letter Reversed Glottal Stop with stroke
+Latin Letter Small Capital B
+Latin Letter Small Capital G
+Latin Letter Small Capital G with hook
+Latin Letter Small Capital H
+Latin Letter Small Capital I
+Latin Letter Small Capital Inverted R
+Latin Letter Small Capital L
+Latin Letter Small Capital N
+Latin Letter Small Capital OE
+Latin Letter Small Capital R
+Latin Letter Small Capital Y
+Latin Letter Stretched C
+Latin Letter Two with stroke
+Latin Letter Wynn
+Latin Letter YR
+Latin Small Letter A
+Latin Small Letter A with acute
+Latin Small Letter A with breve
+Latin Small Letter A with caron
+Latin Small Letter A with circumflex
+Latin Small Letter A with diaeresis
+Latin Small Letter A with diaeresis and macron
+Latin Small Letter A with dot above
+Latin Small Letter A with dot above and macron
+Latin Small Letter A with double grave
+Latin Small Letter A with grave
+Latin Small Letter A with inverted breve
+Latin Small Letter A with macron
+Latin Small Letter A with ogonek
+Latin Small Letter A with ring above
+Latin Small Letter A with ring above and acute
+Latin Small Letter A with tilde
+Latin Small Letter Alpha
+Latin Small Letter B
+Latin Small Letter B with hook
+Latin Small Letter B with stroke
+Latin Small Letter B with top bar
+Latin Small Letter Barred O
+Latin Small Letter C
+Latin Small Letter C with acute
+Latin Small Letter C with caron
+Latin Small Letter C with cedilla
+Latin Small Letter C with circumflex
+Latin Small Letter C with curl
+Latin Small Letter C with dot above
+Latin Small Letter C with hook
+Latin Small Letter C with stroke
+Latin Small Letter Closed Omega
+Latin Small Letter Closed Open E
+Latin Small Letter Closed Reversed Open E
+Latin Small Letter D
+Latin Small Letter D with caron
+Latin Small Letter D with curl
+Latin Small Letter D with hook
+Latin Small Letter D with stroke
+Latin Small Letter D with tail
+Latin Small Letter D with top bar
+Latin Small Letter DB Typographical ligature#Digraphs|Digraph
+Latin Small Letter Dezh digraph
+Latin Small Letter dotless I
+Latin Small Letter Dotless J
+Latin Small Letter Dotless J with stroke
+Latin Small Letter Dotless J with stroke and hook
+Latin Small Letter DZ
+Latin Small Letter DZ digraph
+Latin Small Letter DZ digraph with curl
+Latin Small Letter DZ with caron
+Latin Small Letter E
+Latin Small Letter E with acute
+Latin Small Letter E with breve
+Latin Small Letter E with caron
+Latin Small Letter E with cedilla
+Latin Small Letter E with circumflex
+Latin Small Letter E with diaeresis
+Latin Small Letter E with dot above
+Latin Small Letter E with double grave
+Latin Small Letter E with grave
+Latin Small Letter E with inverted breve
+Latin Small Letter E with macron
+Latin Small Letter E with ogonek
+Latin Small Letter E with stroke
+Latin Small Letter Eng
+Latin Small Letter Esh
+Latin Small Letter Esh with curl
+Latin Small Letter Eth
+Latin Small Letter Ezh
+Latin Small Letter Ezh reversed
+Latin Small Letter Ezh with caron
+Latin Small Letter Ezh with curl
+Latin Small Letter Ezh with tail
+Latin Small Letter F
+Latin Small Letter F with hook
+Latin Small Letter Feng digraph
+Latin Small Letter G
+Latin Small Letter G with acute
+Latin Small Letter G with breve
+Latin Small Letter G with caron
+Latin Small Letter G with cedilla
+Latin Small Letter G with circumflex
+Latin Small Letter G with dot above
+Latin Small Letter G with hook
+Latin Small Letter G with stroke
+Latin Small Letter Gamma
+Latin Small Letter Glottal Stop
+Latin Small Letter H
+Latin Small Letter H with caron
+Latin Small Letter H with circumflex
+Latin Small Letter H with hook
+Latin Small Letter H with stroke
+Latin Small Letter Heng with hook
+Latin Small Letter Hwair|HV
+Latin Small Letter I
+Latin Small Letter I with acute
+Latin Small Letter I with breve
+Latin Small Letter I with caron
+Latin Small Letter I with circumflex
+Latin Small Letter I with diaeresis
+Latin Small Letter I with double grave
+Latin Small Letter I with grave
+Latin Small Letter I with inverted breve
+Latin Small Letter I with macron
+Latin Small Letter I with ogonek
+Latin Small Letter I with stroke
+Latin Small Letter I with tilde
+Latin Small Letter Iota
+Latin Small Letter J
+Latin Small Letter J with caron
+Latin Small Letter J with circumflex
+Latin Small Letter J with crossed tail
+Latin Small Letter J with stroke
+Latin Small Letter K
+Latin Small Letter K with caron
+Latin Small Letter K with cedilla
+Latin Small Letter K with hook
+Latin Small Letter Kra
+Latin Small Letter L
+Latin Small Letter L with acute
+Latin Small Letter L with bar
+Latin Small Letter L with belt
+Latin Small Letter L with caron
+Latin Small Letter L with cedilla
+Latin Small Letter L with curl
+Latin Small Letter L with middle dot
+Latin Small Letter L with middle tilde
+Latin Small Letter L with retroflex hook
+Latin Small Letter L with stroke
+Latin Small Letter Lambda with stroke
+Latin Small Letter Lezh
+Latin Small Letter LJ
+Latin Small Letter long S
+Latin Small Letter LS digraph
+Latin Small Letter LZ digraph
+Latin Small Letter M
+Latin Small Letter M with hook
+Latin Small Letter N
+Latin Small Letter N preceded by apostrophe
+Latin Small Letter N with acute
+Latin Small Letter N with caron
+Latin Small Letter N with cedilla
+Latin Small Letter N with curl
+Latin Small Letter N with grave
+Latin Small Letter N with left hook
+Latin Small Letter N with long right leg
+Latin Small Letter N with retroflex hook
+Latin Small Letter N with tilde
+Latin Small Letter NJ
+Latin Small Letter O
+Latin Small Letter O with acute
+Latin Small Letter O with breve
+Latin Small Letter O with caron
+Latin Small Letter O with circumflex
+Latin Small Letter O with diaeresis
+Latin Small Letter O with diaeresis and macron
+Latin Small Letter O with dot above
+Latin Small Letter O with dot above and macron
+Latin Small Letter O with double grave
+Latin Small Letter O with grave
+Latin Small Letter O with horn
+Latin Small Letter O with inverted breve
+Latin Small Letter O with macron
+Latin Small Letter O with ogonek
+Latin Small Letter O with ogonek and macron
+Latin Small Letter O with stroke
+Latin Small Letter O with stroke and acute
+Latin Small Letter O with tilde
+Latin Small Letter O with tilde and macron
+Latin Small Letter OI (= Latin Small Letter Gha)
+Latin Small Letter Open E
+Latin Small Letter Open O
+Latin Small Letter OU
+Latin Small Letter P
+Latin Small Letter P with hook
+Latin Small Letter Phi
+Latin Small Letter Q
+Latin Small Letter Q with hook
+Latin Small Letter Q with hook tail
+Latin Small Letter QP Digraph
+Latin Small Letter R
+Latin Small Letter R with acute
+Latin Small Letter R with caron
+Latin Small Letter R with cedilla
+Latin Small Letter R with double grave
+Latin Small Letter R with fishhook
+Latin Small Letter R with inverted breve
+Latin Small Letter R with long leg
+Latin Small Letter R with stroke
+Latin Small Letter R with tail
+Latin Small Letter Rams Horn
+Latin Small Letter Reversed E
+Latin Small Letter Reversed Open E
+Latin Small Letter Reversed Open E with hook
+Latin Small Letter Reversed R with fishhook
+Latin Small Letter S
+Latin Small Letter S with acute
+Latin Small Letter S with caron
+Latin Small Letter S with cedilla
+Latin Small Letter S with circumflex
+Latin Small Letter S with comma below
+Latin Small Letter S with hook
+Latin Small Letter S with swash tail
+Latin Small Letter Schwa
+Latin Small Letter Schwa with hook
+Latin Small Letter Script G
+Latin Small Letter Squat Reversed Esh
+Latin Small Letter T
+Latin Small Letter T with caron
+Latin Small Letter T with cedilla
+Latin Small Letter T with comma below
+Latin Small Letter T with curl
+Latin Small Letter T with hook
+Latin Small Letter T with palatal hook
+Latin Small Letter T with retroflex hook
+Latin Small Letter T with stroke
+Latin Small Letter TC digraph with curl
+Latin Small Letter Tesh digraph
+Latin Small Letter Thorn
+Latin Small Letter Tone Five
+Latin Small Letter Tone Six
+Latin Small Letter Tone Two
+Latin Small Letter TS digraph
+Latin Small Letter Turned A
+Latin Small Letter Turned Alpha
+Latin Small Letter Turned Delta
+Latin Small Letter Turned E
+Latin Small Letter Turned H
+Latin Small Letter Turned H with fishhook
+Latin Small Letter Turned H with fishhook and tail
+Latin Small Letter Turned K
+Latin Small Letter Turned M
+Latin Small Letter Turned M with long leg
+Latin Small Letter Turned R
+Latin Small Letter Turned R with hook
+Latin Small Letter Turned R with long leg
+Latin Small Letter Turned T
+Latin Small Letter Turned V
+Latin Small Letter Turned W
+Latin Small Letter Turned Y
+Latin Small Letter U
+Latin Small Letter U bar
+Latin Small Letter U with acute
+Latin Small Letter U with breve
+Latin Small Letter U with caron
+Latin Small Letter U with circumflex
+Latin Small Letter U with diaeresis
+Latin Small Letter U with diaeresis and acute
+Latin Small Letter U with diaeresis and caron
+Latin Small Letter U with diaeresis and grave
+Latin Small Letter U with diaeresis and macron
+Latin Small Letter U with double grave
+Latin Small Letter U with grave
+Latin Small Letter U with horn
+Latin Small Letter U with inverted breve
+Latin Small Letter U with macron
+Latin Small Letter U with ogonek
+Latin Small Letter U with ring above
+Latin Small Letter U with tilde
+Latin Small Letter Upsilon
+Latin Small Letter V
+Latin Small Letter V with hook
+Latin Small Letter W
+Latin Small Letter W with circumflex
+Latin Small Letter X
+Latin Small Letter Y
+Latin Small Letter Y with acute
+Latin Small Letter Y with circumflex
+Latin Small Letter Y with diaeresis
+Latin Small Letter Y with hook
+Latin Small Letter Y with macron
+Latin Small Letter Y with stroke
+Latin Small Letter Yogh
+Latin Small Letter Z
+Latin Small Letter Z with acute
+Latin Small Letter Z with caron
+Latin Small Letter Z with curl
+Latin Small Letter Z with dot above
+Latin Small Letter Z with hook
+Latin Small Letter Z with retroflex hook
+Latin Small Letter Z with stroke
+Latin Small Letter Z with swash tail
+Latin Small Letter Æ
+Latin Small Letter Æ with acute
+Latin Small Letter Æ with macron
+Latin Small Ligature IJ
+Latin Small Ligature OE
+Left and right double turnstile
+Left and right tack
+Left five eighths block
+Left half block
+Left half circle black
+Left multimap
+Left one eighth block
+Left one quarter block
+Left outer join
+Left S-shaped bag delimeter
+Left seven eighths block
+Left three eighths block
+Left three quarters block
+Left-shaded white rightward arrow
+Less-than sign
+Light left tortoise shell bracket ornament
+Light right tortoise shell bracket ornament
+Light shade
+Light vertical bar
+Long division
+Long left right arrow
+Long left right double arrow
+Long left tack
+Long leftward arrow
+Long leftward arrow from bar
+Long leftward double arrow
+Long leftward double arrow from bar
+Long right tack
+Long rightward arrow
+Long rightward arrow from bar
+Long rightward double arrow
+Long rightward double arrow from bar
+Long rightward squiggle arrow
+Lower blade scissors
+Lower five eighths block
+Lower half block
+Lower half circle
+Lower half inverse white circle
+Lower left quadrant circular arc
+Lower one eighth block
+Lower one quarter block
+Lower right corner with dot
+Lower right drop-shadowed white square
+Lower right pencil
+Lower right quadrant circular arc
+Lower right shadowed white square
+Lower right triangle
+Lower seven eighths block
+Lower three eighths block
+Lower three quarters block
+Lower-left triangle
+Lozenge
+Lozenge divided by horizontal rule
+L|Latin Capital letter L
+M
+m
+Macron
+Maltese cross
+Mathematical left angle bracket
+Mathematical left double angle bracket
+Mathematical left flattened parenthesis
+Mathematical left white square bracket
+Mathematical left white tortoise shell bracket
+Mathematical right angle bracket
+Mathematical right double angle bracket
+Mathematical right flattened parenthesis
+Mathematical right white square bracket
+Mathematical right white tortoise shell bracket
+Medium flattened left parenthesis ornament
+Medium flattened right parenthesis ornament
+Medium left curly bracket ornament
+Medium left curly bracket ornament
+Medium left parenthesis ornament
+Medium left-pointing angle bracket ornament
+Medium right parenthesis ornament
+Medium right-pointing angle bracket ornament
+Medium shade
+Medium vertical bar
+Micro-|Micro sign
+Mid central vowel
+Modifier Letter Acute Accent
+Modifier letter apostrophe|Modifier Letter Apostrophe
+Modifier Letter Begin High Tone
+Modifier Letter Begin Low Tone
+Modifier Letter Centered Left Half Ring
+Modifier Letter Centered Right Half Ring
+Modifier Letter Circumflex Accent
+Modifier Letter Cross Accent
+Modifier letter double apostrophe|Modifier Letter Double Apostrophe
+Modifier Letter Double Prime
+Modifier Letter Down Arrowhead
+Modifier Letter Down Tack
+Modifier Letter End High Tone
+Modifier Letter End Low Tone
+Modifier Letter Glottal Stop
+Modifier Letter Grave Accent
+Modifier Letter Half Triangular Colon
+Modifier Letter Left Arrowhead
+Modifier Letter Left Half Ring
+Modifier Letter Low Acute Accent
+Modifier Letter Low Down Arrowhead
+Modifier Letter Low Grave Accent
+Modifier Letter Low Left Arrowhead
+Modifier Letter Low Macron
+Modifier Letter Low Right Arrowhead
+Modifier Letter Low Ring
+Modifier Letter Low Tilde
+Modifier Letter Low Up Arrowhead
+Modifier Letter Low Vertical Line
+Modifier Letter Macron
+Modifier Letter Middle Double Acute Accent
+Modifier Letter Middle Double Grave Accent
+Modifier Letter Middle Grave Accent
+Modifier Letter Minus Sign
+Modifier Letter Open Shelf
+Modifier Letter Plus Sign
+Modifier Letter Prime
+Modifier Letter Raised Colon
+Modifier Letter Reversed Comma
+Modifier Letter Reversed Glottal Stop
+Modifier Letter Rhotic Hook
+Modifier Letter Right Arrowhead
+Modifier Letter Right Half Ring
+Modifier Letter Shelf
+Modifier Letter Small Capital Inverted R
+Modifier Letter Small Gamma
+Modifier Letter Small H
+Modifier Letter Small H with hook
+Modifier Letter Small J
+Modifier Letter Small L
+Modifier Letter Small R
+Modifier Letter Small Reversed Glottal Stop
+Modifier Letter Small S
+Modifier Letter Small Turned R
+Modifier Letter Small Turned R with hook
+Modifier Letter Small W
+Modifier Letter Small X
+Modifier Letter Small Y
+Modifier Letter Triangular Colon
+Modifier Letter Turned Comma
+Modifier Letter Unaspirated
+Modifier Letter Up Arrowhead
+Modifier Letter Up Tack
+Modifier Letter Vertical Line
+Modifier Letter Voicing
+Modifier Letter Yang Departing Tone Mark
+Modifier Letter Yin Departing Tone Mark
+Multiplication sign
+Multiplication X
+M|Latin Capital letter M
+N
+n
+Near-close near-back vowel
+Near-close near-front rounded vowel
+Near-close near-front unrounded vowel
+Near-open central vowel
+Negation|Not sign
+Negative squared cross mark
+Notched lower right-shadowed white rightward arrow
+Notched upper right-shadowed white rightward arrow
+N|Latin Capital letter N
+O
+o
+Obelus|Division sign
+Ogonek
+Open back rounded vowel
+Open back unrounded vowel
+Open center asterisk
+Open center black star
+Open center cross
+Open center teardrop spoked asterisk
+Open front rounded vowel
+Open subset
+Open superset
+Open-mid back rounded vowel
+Open-mid back unrounded vowel
+Open-mid central rounded vowel
+Open-mid central unrounded vowel
+Open-mid front unrounded vowel
+Open-outlined rightward arrow
+Or with dot inside
+Ordinal indicator#Italian, Portuguese, and Spanish|Feminine Ordinal Indicator
+Ordinal indicator#Italian, Portuguese, and Spanish|Masculine ordinal indicator
+Outlined black star
+Outlined Greek cross
+Outlined Latin cross
+O|Latin Capital letter O
+P
+p
+Palatal lateral approximant
+Palatal nasal
+Pencil
+Percent sign
+Perpendicular
+Pilcrow sign
+Pinwheel star
+Plus sign
+Plus-minus sign
+Postalveolar click (obsolete)
+Pound sign
+pre-1989 form of "ɪ" ''(Obsolete and nonstandard symbols in the International Phonetic Alphabet|obsolete)''
+pre-1989 form of "ʊ" ''(Obsolete and nonstandard symbols in the International Phonetic Alphabet|obsolete)''
+P|Latin Capital letter P
+Q
+q
+Quadrant lower left
+Quadrant lower right
+Quadrant upper left
+Quadrant upper left and lower left and lower right
+Quadrant upper left and lower right
+Quadrant upper left and upper right and lower left
+Quadrant upper left and upper right and lower right
+Quadrant upper right
+Quadrant upper right and lower left
+Quadrant upper right and lower left and lower right
+Question mark
+Q|Latin Capital letter Q
+R
+r
+R-colored vowel|Rhotacized Mid central vowel
+R-colored vowel|Rhotacized Open-mid central unrounded vowel
+Raised fist
+Raised hand
+Retroflex approximant
+Retroflex flap
+Retroflex lateral approximant
+Retroflex nasal
+Reverse solidus preceding subset
+Right arrow with circled plus
+Right half black circle
+Right half block
+Right one eighth block
+Right outer join
+Right S-shaped bag delimeter
+Right-shaded white rightward arrow
+Ring Above
+Rotated floral heart bullet
+Rotated heavy black heart bullet
+R|Latin Capital letter R
+S
+s
+Section sign
+Semicolon
+Shadowed white circle
+Shadowed white Latin cross
+Shadowed white star
+Six petalled black and white florette
+Six pointed black star
+Sixteen pointed asterisk
+Slash (punctuation)|Slash (Solidus)
+Small Tilde
+Snowflake
+Sparkle
+Sparkles
+Square with diagonal crosshatch fill
+Square with horizontal fill
+Square with left half black
+Square with lower right diagonal half black
+Square with orthogonal crosshatch fill
+Square with right half black
+Square with upper left diagonal half black
+Square with upper left to lower right fill
+Square with upper right to lower left fill
+Square with vertical fill
+Squat black rightward arrow
+Star of David
+Stress outlined white star
+Subscript and superscript#Superscripts|Superscript one
+Subscript and superscript#Superscripts|Superscript three
+Subscript and superscript#Superscripts|Superscript two
+Superset preceding solidus
+Syllabic consonant|syllabic labialized voiced alveolar fricative (sinologist usage)
+Syllabic consonant|Syllabic voiced alveolar fricative (sinologist usage)
+Syriac Abbreviation Mark
+Syriac Barrekh
+Syriac Colon skewed left
+Syriac Colon skewed right
+Syriac Contraction
+Syriac Dotted Zlama Angular
+Syriac Dotted Zlama Horizontal
+Syriac End of Paragraph
+Syriac Esasa Above
+Syriac Esasa Below
+Syriac Feminine Dot
+Syriac Harklean Asteriscus
+Syriac Harklean Metobelus
+Syriac Harklean Obelus
+Syriac Hbasa Above
+Syriac Hbasa Below
+Syriac Hbasa-Esata Dotted
+Syriac Horizontal Colon
+Syriac Letter Alaph
+Syriac Letter Beth
+Syriac Letter Dalath
+Syriac Letter Dotless Dalath Rish
+Syriac Letter E
+Syriac Letter Final Semkath
+Syriac Letter Gamal
+Syriac Letter Gamal Garshuni
+Syriac Letter He
+Syriac Letter Heth
+Syriac Letter Kaph
+Syriac Letter Lamadh
+Syriac Letter Mim
+Syriac Letter Nun
+Syriac Letter Pe
+Syriac Letter Persian Bheth
+Syriac Letter Persian Dhalath
+Syriac Letter Persian Ghamal
+Syriac Letter Qaph
+Syriac Letter Reversed Pe
+Syriac Letter Rish
+Syriac Letter Sadhe
+Syriac Letter Semkath
+Syriac Letter Shin
+Syriac Letter Sogdian Fe
+Syriac Letter Sogdian Khaph
+Syriac Letter Sogdian Zhain
+Syriac Letter Superscript Alaph
+Syriac Letter Taw
+Syriac Letter Teth
+Syriac Letter Teth Garshuni
+Syriac Letter Waw
+Syriac Letter Yudh
+Syriac Letter Yudh He
+Syriac Letter Zain
+Syriac Music
+Syriac Oblique Line Above
+Syriac Oblique Line Below
+Syriac Pthaha Above
+Syriac Pthaha Below
+Syriac Pthaha Dotted
+Syriac Qushshaya
+Syriac Rbasa Above
+Syriac Rbasa Below
+Syriac Rukkakha
+Syriac Rwaha
+Syriac Sublinear Colon
+Syriac Sublinear Colon skewed right
+Syriac Sublinear Full Stop
+Syriac Supralinear Colon
+Syriac Supralinear Colon skewed left
+Syriac Supralinear Full Stop
+Syriac Three Dots Above
+Syriac Three Dots Below
+Syriac Two Vertical Dots Above
+Syriac Two Vertical Dots Below
+Syriac Zqapha Above
+Syriac Zqapha Below
+Syriac Zqapha Dotted
+S|Latin Capital letter S
+T
+t
+Tape drive
+Teardrop spoked asterisk
+Teardrop-barbed rightward arrow
+Telephone location sign
+Thorn (letter)|Latin Capital Letter Thorn
+Three dimensional angle
+Three-D bottom-lighted rightward arrowhead
+Three-D top-lighted rightward arrowhead
+Tight trifoliate snowflake
+Tilde
+Tone letter|Modifier Letter Extra-High Tone Bar
+Tone letter|Modifier Letter Extra-Low Tone Bar
+Tone letter|Modifier Letter High Tone Bar
+Tone letter|Modifier Letter Low Tone Bar
+Tone letter|Modifier Letter Mid Tone Bar
+Trademark|Registered sign
+Triangle-headed rightward arrow
+Twelve pointed black star
+T|Latin Capital letter T
+U
+u
+Umlaut (diacritic)|Diaeresis
+Underscore|Low line
+Up tack with circle above
+Up-pointing triangle with left half black
+Up-pointing triangle with right half black
+Upper blade scissors
+Upper half block
+Upper half circle
+Upper half inverse white circle
+Upper left corner with dot
+Upper left quadrant circular arc
+Upper left triangle
+Upper one eighth block
+Upper right drop-shadowed white square
+Upper right pencil
+Upper right quadrant circular arc
+Upper right shadowed white square
+Upper right triangle
+Upward quadruple arrow
+Urdu Letter Ddahal
+Urdu Letter Dul
+Urdu Letter Tcheh
+Urdu Mark Noon Ghonna
+Urdu-farsi Letter Gaf
+Urdu-farsi Letter Peh
+Urdu-farsi Letter Rreh
+Uvular nasal
+Uvular trill
+U|Latin Capital letter U
+V
+v
+Velar approximant
+Velar click (obsolete)
+Velar lateral approximant
+Velarization|Velar/Pharyngealization|pharyngeal Alveolar lateral approximant
+Velopharyngeal fricative
+Vertical bar
+Vertical bar with horizontal stroke
+Vertical bar|Broken bar
+Victory hand
+Voiced alveolar affricate (obsolete)
+Voiced alveolar implosive
+Voiced alveolar lateral fricative
+Voiced alveolar lateral fricative
+Voiced alveolo-palatal affricate (obsolete)
+Voiced alveolo-palatal fricative
+Voiced alveolo-palatal fricative (obsolete)
+Voiced bilabial implosive
+Voiced epiglottal fricative
+Voiced glottal fricative
+Voiced palatal fricative
+Voiced palatal plosive
+Voiced pharyngeal fricative
+Voiced postalveolar affricate (obsolete)
+Voiced postalveolar fricative
+Voiced retroflex fricative
+Voiced retroflex plosive
+Voiced uvular fricative
+Voiced uvular implosive
+Voiced uvular plosive
+Voiced velar fricative
+Voiced velar implosive
+Voiced velar plosive
+Voiceless alveolar affricate (obsolete)
+Voiceless alveolar lateral fricative
+Voiceless alveolar lateral fricative
+Voiceless alveolo-palatal affricate (obsolete)
+Voiceless alveolo-palatal fricative
+Voiceless alveolo-palatal fricative (obsolete)
+Voiceless bilabial fricative
+Voiceless epiglottal fricative
+Voiceless labiovelar approximant
+Voiceless postalveolar affricate (obsolete)
+Voiceless postalveolar fricative
+Voiceless postalveolar fricative + Voiceless velar fricative
+Voiceless retroflex fricative
+Voiceless retroflex plosive
+Vulgar fraction one half
+Vulgar fraction one quarter
+Vulgar fraction three quarters
+V|Latin Capital letter V
+W
+w
+Wedge-tailed rightward arrow
+White bullet
+White circle
+White circle with lower left quadrant
+White circle with lower right quadrant
+White circle with upper left quadrant
+White circle with upper right quadrant
+White concave-sided diamond
+White concave-sided diamond with leftward tick
+White concave-sided diamond with rightward tick
+White diamond
+White diamond containing small black diamond
+White diamond with centered dot
+White down-pointing small triangle
+White down-pointing triangle
+White exclamation mark ornament
+White florette
+White four-pointed star
+White heavy check mark
+White left-pointing pointer
+White left-pointing small triangle
+White left-pointing triangle
+White medium small square
+White medium square
+White nib
+White parallelogram
+White question mark ornament
+White rectangle
+White right-pointing pointer
+White right-pointing small triangle
+White right-pointing triangle
+White scissors
+White small square
+White square
+White square containing small black square
+White square with leftward tick
+White square with lower left quadrant
+White square with lower right quadrant
+White square with rightward tick
+White square with rounded corners
+White square with upper left quadrant
+White square with upper right quadrant
+White square with vertical bisecting line
+White triangle containing small white triangle
+White up-pointing small triangle
+White up-pointing triangle
+White up-pointing triangle with dot
+White vertical rectangle
+White-feathered rightward arrow
+Writing hand
+W|Latin Capital letter W
+X
+x
+X|Latin Capital letter X
+Y
+y
+Ye with grave|Cyrillic Capital Letter Ie with grave
+Ye with grave|Cyrillic Small Letter Ie with grave
+Y|Latin Capital letter Y
+Z
+z
+Z|Latin Capital letter Z
+¥|Yen sign
+ß|Latin Small Letter sharp S
+Á|Latin Capital letter A with acute
+Â|Latin Capital letter A with circumflex
+Ã|Latin Capital letter A with tilde
+Ä|Latin Capital letter A with diaeresis
+Å|Latin Capital letter A with ring above
+Æ|Latin Capital letter Æ
+Ç|Latin Capital letter C with cedilla
+È|Latin Capital letter E with grave
+É|Latin Capital letter E with acute
+Ê|Latin Capital letter E with circumflex
+Ë|Latin Capital letter E with diaeresis
+Ì|Latin Capital letter I with grave
+Í|Latin Capital letter I with acute
+Î|Latin Capital letter I with circumflex
+Ï|Latin Capital letter I with diaeresis
+Ñ|Latin Capital letter N with tilde
+Ò|Latin Capital letter O with grave
+Ó|Latin Capital letter O with acute
+Ô|Latin Capital letter O with circumflex
+Õ|Latin Capital letter O with tilde
+Ö|Latin Capital letter O with diaeresis
+Ø|Latin Capital letter O with stroke
+Ù|Latin Capital letter U with grave
+Ú|Latin Capital letter U with acute
+Û|Latin Capital Letter U with circumflex
+Ü|Latin Capital Letter U with diaeresis
+Ý|Latin Capital Letter Y with acute

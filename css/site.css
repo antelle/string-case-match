@@ -1,0 +1,81 @@
+body {
+    background-color: #f4f8fb;
+}
+
+.tooltip.in {
+    opacity: 0.75;
+}
+
+#list-results i {
+    font-style: normal;
+    background-color: #faeecd;
+    border: 1px solid #f6e7bf;
+    padding: 1px 0;
+    border-radius: 2px;
+}
+
+#search-list {
+    cursor: default;
+    margin-top: 5px;
+}
+#search-list-title {
+    display: inline-block;
+}
+#search-list a, #search-list a:hover {
+    margin-left: 5px;
+    display: inline-block;
+    cursor: pointer;
+    border-bottom: 1px dotted;
+    line-height: 14px;
+    text-decoration: none;
+}
+#search-list a.active {
+    border-bottom: 3px solid #3d9ce4;
+    cursor: default;
+    color: #333;
+}
+
+#search-tips {
+    color: #ccc;
+    transition: color 300ms; -webkit-transition: color 300ms;
+}
+#search-tips:hover {
+    color: #666;
+    transition: color 300ms; -webkit-transition: color 300ms;
+}
+#search-tips .tip {
+    margin-bottom: 10px;
+}
+#search-tips .kw {
+    width: 50px;
+    display: inline-block;
+}
+#search-tips b {
+    font-weight: normal;
+    background-color: #e8f2fa;
+    border: 1px solid #d0e6f7;
+    padding: 1px 4px;
+    border-radius: 2px;
+}
+#search-tips .kw.bad b {
+    background-color: #f6eeec;
+    border: 1px solid #f6ddd7;
+}
+#search-tips i {
+    font-style: normal;
+    background-color: #f9f0d6;
+    border: 1px solid #f7eac6;
+    padding: 1px 0;
+    border-radius: 2px;
+}
+#search-tips .arr, #search-tips .sarr {
+    display: inline-block;
+    width: 20px;
+}
+#search-tips .sarr {
+    font-size: 18px;
+    line-height: 10px;
+}
+#footer {
+    opacity: 0.2;
+}

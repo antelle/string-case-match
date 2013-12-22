@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+    <head>
+        <link rel="stylesheet" href="lib/bootstrap/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="lib/bootstrap/css/bootstrap-theme.min.css" />
+        <link rel="stylesheet" href="css/site.css" />
+        <script src="lib/jquery/jquery-2.0.3.min.js"></script>
+        <script src="lib/string-case-match/string-case-match.js"></script>
+        <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+        <script src="js/index.js"></script>
+    </head>
+    <body>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <h1>string-case-match</h1>
+                    <p>This is a string matching library with support of camel case, dash-case and others. The source code and examples are <a href="https://github.com/antelle/string-case-match/">on GitHub</a>.</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="form-group col-sm-8">
+                    <input type="text" class="form-control" id="txt-search" disabled autofocus autocomplete="off" />
+                </div>
+                <div class="col-sm-4">
+                    <div id="search-list">
+                        <div id="search-list-title" class="text-muted">Search in:</div>
+                        <a class="active" data-file="angularjs-files.txt" title="Sample items to search: list of files in angular.js source">files</a>
+                        <a data-file="wiki-articles.txt" title="Sample items to search: list of Wikipedia articles">articles</a>
+                        <a data-file="uni-chars.txt" title="Sample items to search: Unicode characters (part of data file)">chars</a>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="form-group col-sm-8">
+                    <ul class="list-group" id="list-results">
+                    </ul>
+                </div>
+                <div class="col-sm-4" id="search-tips">
+                    <div class="tip"><span class="kw"><b>hw</b></span> <span class="arr">&rarr;</span> <span><i>H</i>ello<i>W</i>orld</span></div>
+                    <div class="tip"><span class="kw"><b>hewo</b></span> <span class="arr">&rarr;</span> <span><i>He</i>llo<i>Wo</i>rld</span></div>
+                    <div class="tip"><span class="kw"><b>h wo</b></span> <span class="arr">&rarr;</span> <span><i>H</i>ello<i>Wo</i>rld</span></div>
+                    <div class="tip"><span class="kw"><b>h w</b></span> <span class="arr">&rarr;</span> <span><i>h</i>ello-<i>w</i>orld.js</span></div>
+                    <div class="tip"><span class="kw"><b>h-w</b></span> <span class="arr">&rarr;</span> <span><i>h</i>ello-<i>w</i>orld.js</span></div>
+                    <div class="tip"><span class="kw bad"><b>h.w</b></span> <span class="sarr">&#x219B;</span> <span>hello-world.js</span></div>
+                    <div class="tip"><span class="kw"><b>h.js</b></span> <span class="arr">&rarr;</span> <span><i>h</i>ello-world<i>.js</i></span></div>
+                    <div class="tip"><span class="kw"><b>owo</b></span> <span class="arr">&rarr;</span> <span>Hell<i>oWo</i>rld</span></div>
+                    <div class="tip"><span class="kw bad"><b>e</b></span> <span class="sarr">&#x219B;</span> <span>hello</span></div>
+                    <div class="tip"><span class="kw"><b>h</b></span> <span class="arr">&rarr;</span> <span><i>h</i>ello</span></div>
+                    <div class="tip"><span class="kw"><b>w</b></span> <span class="arr">&rarr;</span> <span>hello <i>w</i>orld</span></div>
+                    <div class="tip"><span class="kw"><b>ell</b></span> <span class="arr">&rarr;</span> <span>h<i>ell</i>o</span></div>
+                    <div class="tip"><span class="kw"><b>ew</b></span> <span class="arr">&rarr;</span> <span>hello <i>e</i>vil <i>w</i>orld</span></div>
+                    <div class="tip"><span class="kw bad"><b>ew</b></span> <span class="arr">&rarr;</span> <span>hello world</span></div>
+                    <div class="tip"><span class="kw"><b>hw4</b></span> <span class="arr">&rarr;</span> <span><i>h</i>ello <i>w</i>orld<i>4</i>2</span></div>
+                </div>
+            </div>
+        </div>
+        <div id="footer">
+            <nav class="navbar-fixed-bottom">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-4 col-sm-offset-8">
+                            <p>
+                                <a href="https://github.com/antelle/string-case-match/">string-case-match</a> is created by <a href="http://antelle.net">Antelle</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </body>
+</html>
