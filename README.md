@@ -3,7 +3,7 @@
 String matching class. Given a set of strings to match, it will search it by different input.  
 It is able to search strings as abbreviations (e.g. `HelloWorld` matches `hw`, `hewo`, `h w`, ...). Works in node.js and all modern browsers without any dependencies. This script is intended to use as ranking function for autocompletes, searches for short strings, etc.  
 
-~~See the [live demo](http://antelle.github.io/string-case-match) page to play with it (under construction).~~
+See the [live demo](http://antelle.github.io/string-case-match/) page to play with it.
 
 ## Installation
 
