@@ -31,6 +31,7 @@
         $.ajax({
             type: "GET",
             url: url,
+            dataType: "text",
             success: function(result) {
                 allItems = $.trim(result).split("\n");
                 initMatcher();
