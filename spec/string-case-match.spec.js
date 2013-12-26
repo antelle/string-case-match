@@ -249,6 +249,15 @@
             expect(new StringCaseMatch(["Hello-World"], { start: "<i>", end: "</i>" }).matches("hellWo")).toEqual(["<i>Hell</i>o-<i>Wo</i>rld"]);
             expect(new StringCaseMatch(["Hello-World"], { start: "<i>", end: "</i>" }).matches("h")).toEqual(["<i>H</i>ello-World"]);
             expect(new StringCaseMatch(["Hello-World"], { start: "<i>", end: "</i>" }).matches("ld")).toEqual(["Hello-Wor<i>ld</i>"]);
-        })
+        });
+        it("Monitors search array changes", function() {
+            var strs = ["Hello", "hello"];
+            var matcher = new StringCaseMatch(strs);
+            expect(matcher.matches("hell")).toEqual(["hello", "Hello"]);
+            strs.push("hell");
+            expect(matcher.matches("hell")).toEqual(["hell", "hello", "Hello"]);
+            strs.splice(0, 1);
+            expect(matcher.matches("hell")).toEqual(["hell", "hello"]);
+        });
     });
 })();

@@ -53,14 +53,7 @@
      * @constructor
      */
     var StringCaseMatch = function(strings, config) {
-        var result = [];
-        if (strings) {
-            for (var i = 0; i < strings.length; i++) {
-                if (strings[i])
-                    result.push(strings[i]);
-            }
-        }
-        this.strings = result;
+        this.strings = strings || [];
         if (config)
             this.config = config;
     };

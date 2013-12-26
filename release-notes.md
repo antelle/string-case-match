@@ -11,3 +11,4 @@ Bugfix release
 ##### v1.0.2 (2013-12-26)
 New features  
 `+` matching accents with regular letters  
+`+` ability to change search sources array  
