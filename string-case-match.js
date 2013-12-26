@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @license StringCaseMatch | (c) 2013 Antelle | https://github.com/antelle/string-case-match/blob/master/MIT-LICENSE.txt
  */
 
@@ -36,6 +36,10 @@
     var MATCH_TYPE_MIDDLE = "l";
     var MATCH_TYPE_SEP = "s";
     var MATCH_TYPE_SEQUENCE = "q";
+
+    var letterAccents = {"a": "àáâãäåÀÁÂÃÄÅ", "c": "çÇ", "e": "èéêëÈÉÊË", "i": "ìíîïÌÍÎÏ", "n": "ñÑ", "o": "òóôõöÒÓÔÕÖ", "u": "ùúûűüÙÚÛŰÜ", "y": "ýÿÝŸ", "е": "ёЁ", "s": "ß"};
+    var accentsToLower = {};
+    var lowerRegex;
 
     /**
      * String matching class. Given a set of strings to match, will be able to search it by different input.
@@ -116,13 +120,13 @@
         var i, queryIx, strIx, queryCharCls, strCharCls, strict;
 
         var strLen = str.length;
-        var strLower = str.toLowerCase();
+        var strLower = toLower(str);
         var strCharClasses = [];
         for (i = 0; i < strLen; i++)
             strCharClasses.push(getCharClass(str[i]));
 
         var queryLen = query.length;
-        var queryLower = query.toLowerCase();
+        var queryLower = toLower(query);
         var queryCharClasses = [];
         for (i = 0; i < queryLen; i++)
             queryCharClasses.push(getCharClass(query[i]));
@@ -210,7 +214,24 @@
             || chCls == CHAR_DIGIT && chClsPrev != CHAR_DIGIT;
     }
 
+    function toLower(str) {
+        return str.toLowerCase().replace(lowerRegex, replaceAccent);
+    }
+
+    function replaceAccent(ch) {
+        return accentsToLower[ch];
+    }
+
     function getCharClass(ch) {
+        if (ch.charCodeAt(0) > 0xfff)
+            return getCharClassRaw(ch);
+        var cls = getCharClass[ch];
+        if (!cls)
+            getCharClass[ch] = cls = getCharClassRaw(ch);
+        return cls;
+    }
+
+    function getCharClassRaw(ch) {
         var chUpper = ch.toUpperCase();
         if (chUpper != ch.toLowerCase() || ch == "ß")
             return ch == chUpper ? CHAR_LETTER_UPPER : CHAR_LETTER_LOWER;
@@ -275,6 +296,24 @@
             result += config.end;
         return result;
     }
+
+    function initAccents() {
+        var lowerRegexStr = "[";
+        for (var letter in letterAccents) {
+            if (!letterAccents.hasOwnProperty(letter))
+                continue;
+            var accents = letterAccents[letter];
+            for (var i = 0; i < accents.length; i++)
+                accentsToLower[accents[i]] = letter;
+            lowerRegexStr += accents;
+        }
+        lowerRegexStr += "]";
+        lowerRegex = new RegExp(lowerRegexStr, "g");
+    }
+
+    initAccents();
+
+    StringCaseMatch.toLower = toLower;
 
     if ((typeof module === "object") && module.exports)
         module.exports = StringCaseMatch;

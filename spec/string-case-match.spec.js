@@ -191,6 +191,12 @@
             expect(match.rank("hello123", "he12")).toBeTruthy();
         });
 
+        it("Matches diacritics with simple chars", function() {
+            expect(match.rank("Strauß", "straus")).toBeTruthy();
+            expect(match.rank("ёж", "еж")).toBeTruthy();
+            expect(match.rank("tränen", "ran")).toBeTruthy();
+        });
+
         it("Favors correct case", function() {
             expect(match.rank("hello", "hello")).toBeGreaterThan(match.rank("hello", "Hello"));
             expect(match.rank("helloWorld", "hW")).toBeGreaterThan(match.rank("helloWorld", "hw"));
@@ -205,6 +211,9 @@
         it("Favors correct separators", function() {
             expect(match.rank("hello-world", "h-w")).toBeGreaterThan(match.rank("hello-world", "hw"));
             expect(match.rank("hello-world", "h-w")).toBeGreaterThan(match.rank("hello-world", "h w"));
+        });
+        it("Favors correct diacritics", function() {
+            expect(match.rank("Füße", "füße")).toBeGreaterThan(match.rank("Füße", "fuse"));
         });
     });
 

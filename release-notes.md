@@ -7,3 +7,7 @@ Initial commit
 Bugfix release  
 `-` subwords can be matched if the abbreviature is following them  
 `-` space in query could lead to incorrect results  
+
+##### v1.0.2 (2013-12-26)
+New features  
+`+` matching accents with regular letters  
