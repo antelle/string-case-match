@@ -108,7 +108,7 @@
 
     function getBestMatch(str, query) {
         if (!query || !str)
-            return 0;
+            return null;
 
         var i, queryIx, strIx, queryCharCls, strCharCls, strict;
 
@@ -141,7 +141,7 @@
         }
 
         if (matches.length == 0)
-            return 0;
+            return null;
 
         for (queryIx = 1; queryIx < queryLen; queryIx++) {
             queryCharCls = queryCharClasses[queryIx];
@@ -191,7 +191,7 @@
         }
 
         if (matches.length == 0)
-            return 0;
+            return null;
 
         for (i = 0; i < matches.length; i++) {
             matches[i] = convertMatch(matches[i]);
@@ -219,7 +219,7 @@
         if (ch.charCodeAt(0) > 0xfff)
             return getCharClassRaw(ch);
         var cls = getCharClass[ch];
-        if (!cls)
+        if (cls === undefined)
             getCharClass[ch] = cls = getCharClassRaw(ch);
         return cls;
     }
@@ -305,8 +305,6 @@
     }
 
     initAccents();
-
-    StringCaseMatch.toLower = toLower;
 
     if ((typeof module === "object") && module.exports)
         module.exports = StringCaseMatch;
