@@ -21,6 +21,9 @@
             src: {
                 options: {
                     banner: "/*! <%= pkg.name %> v<%= pkg.version %>  | (c) <%= grunt.template.today('yyyy') %> Antelle | https://github.com/antelle/string-case-match/blob/master/MIT-LICENSE.txt */\n\n",
+                    beautify : {
+                        ascii_only : true
+                    }
                 },
                 files: {
                     "build/string-case-match.js": ["string-case-match.js"]
