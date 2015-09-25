@@ -11,6 +11,9 @@ With node.js
 ```bash
 npm install string-case-match
 ```
+```bash
+bower install string-case-match
+```
 ```javascript 
 var StringCaseMatch = require("string-case-match");
 console.log(new StringCaseMatch(["hello"], { start: "<i>", end: "</i>" }).matches("hell"));
