@@ -22,22 +22,23 @@
 // WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 (function() {
-    "use strict";
+    'use strict';
 
-    var CHAR_LETTER = "l";
-    var CHAR_LETTER_LOWER = "ll";
-    var CHAR_LETTER_UPPER = "lu";
-    var CHAR_DIGIT = "d";
-    var CHAR_SPACE = "s";
-    var CHAR_SYMBOL = "x";
+    var CHAR_LETTER = 'l';
+    var CHAR_LETTER_LOWER = 'll';
+    var CHAR_LETTER_UPPER = 'lu';
+    var CHAR_DIGIT = 'd';
+    var CHAR_SPACE = 's';
+    var CHAR_SYMBOL = 'x';
 
-    var MATCH_TYPE_FIRST = "f";
-    var MATCH_TYPE_WORD_START = "w";
-    var MATCH_TYPE_MIDDLE = "l";
-    var MATCH_TYPE_SEP = "s";
-    var MATCH_TYPE_SEQUENCE = "q";
+    var MATCH_TYPE_FIRST = 'f';
+    var MATCH_TYPE_WORD_START = 'w';
+    var MATCH_TYPE_MIDDLE = 'l';
+    var MATCH_TYPE_SEP = 's';
+    var MATCH_TYPE_SEQUENCE = 'q';
 
-    var letterAccents = {"a": "àáâãäåÀÁÂÃÄÅ", "c": "çÇ", "e": "èéêëÈÉÊË", "i": "ìíîïÌÍÎÏ", "n": "ñÑ", "o": "òóôõöÒÓÔÕÖ", "u": "ùúûűüÙÚÛŰÜ", "y": "ýÿÝŸ", "е": "ёЁ", "s": "ß"};
+    var letterAccents = {'a': 'àáâãäåÀÁÂÃÄÅ', 'c': 'çÇ', 'e': 'èéêëÈÉÊË', 'i': 'ìíîïÌÍÎÏ', 'n': 'ñÑ', 'o': 'òóôõöÒÓÔÕÖ', 'u': 'ùúûűüÙÚÛŰÜ',
+        'y': 'ýÿÝŸ', 'е': 'ёЁ', 's': 'ß'};
     var accentsToLower = {};
     var lowerRegex;
 
@@ -54,13 +55,14 @@
      */
     var StringCaseMatch = function(strings, config) {
         this.strings = strings || [];
-        if (config)
+        if (config) {
             this.config = config;
+        }
     };
 
     StringCaseMatch.prototype.config = {
-        start: "",
-        end: ""
+        start: '',
+        end: ''
     };
 
     /**
@@ -70,17 +72,19 @@
      * @return {String[]} - matched set of strings, sorted by match value
      */
     StringCaseMatch.prototype.matches = function(query, top) {
-        if (!query)
+        if (!query) {
             return [];
+        }
         var matched = [];
         var strs = this.strings;
         var len = strs.length;
         var i;
         for (i = 0; i < len; i++) {
             var match = getBestMatch(strs[i], query);
-            //console.log(JSON.stringify(strs[i]) + " [" + query + "] => " + match.rank);
-            if (match && match.rank > 0)
-                matched.push({ str: strs[i], match: match });
+            //console.log(JSON.stringify(strs[i]) + ' [' + query + '] => ' + match.rank);
+            if (match && match.rank > 0) {
+                matched.push({str: strs[i], match: match});
+            }
         }
         matched.sort(function(x, y) { return y.match.rank - x.match.rank; });
         var result = [];
@@ -88,8 +92,9 @@
         var needHighlight = this.config.start || this.config.end;
         for (i = 0; i < max; i++) {
             var str = matched[i].str;
-            if (needHighlight)
+            if (needHighlight) {
                 str = highlightStr(str, matched[i].match, this.config);
+            }
             result.push(str);
         }
         return result;
@@ -107,41 +112,48 @@
     };
 
     function getBestMatch(str, query) {
-        if (!query || !str)
+        if (!query || !str) {
             return null;
+        }
 
         var i, queryIx, strIx, queryCharCls, strCharCls, strict;
 
         var strLen = str.length;
         var strLower = toLower(str);
         var strCharClasses = [];
-        for (i = 0; i < strLen; i++)
+        for (i = 0; i < strLen; i++) {
             strCharClasses.push(getCharClass(str[i]));
+        }
 
         var queryLen = query.length;
         var queryLower = toLower(query);
         var queryCharClasses = [];
-        for (i = 0; i < queryLen; i++)
+        for (i = 0; i < queryLen; i++) {
             queryCharClasses.push(getCharClass(query[i]));
+        }
 
         var matches = [];
         for (strIx = 0; strIx < strLen; strIx++) {
-            if (strLower[strIx] == queryLower[0]) {
+            if (strLower[strIx] === queryLower[0]) {
                 strCharCls = strCharClasses[strIx];
                 var matchType;
-                if (strIx == 0)
+                if (strIx === 0) {
                     matchType = MATCH_TYPE_FIRST;
-                else if (strCharCls == CHAR_SPACE || strCharCls == CHAR_SYMBOL)
+                }
+                else if (strCharCls === CHAR_SPACE || strCharCls === CHAR_SYMBOL) {
                     matchType = MATCH_TYPE_SEP;
-                else
+                }
+                else {
                     matchType = isWordStart(strCharClasses[strIx], strCharClasses[strIx - 1]) ? MATCH_TYPE_WORD_START : MATCH_TYPE_MIDDLE;
-                strict = query[0] == str[strIx];
+                }
+                strict = query[0] === str[strIx];
                 matches.push({ pos: strIx, type: matchType, strict: strict });
             }
         }
 
-        if (matches.length == 0)
+        if (matches.length === 0) {
             return null;
+        }
 
         for (queryIx = 1; queryIx < queryLen; queryIx++) {
             queryCharCls = queryCharClasses[queryIx];
@@ -151,38 +163,43 @@
                 var match = matches[i];
                 for (strIx = match.pos + 1; strIx < strLen; strIx++) {
                     strCharCls = strCharClasses[strIx];
-                    strict = str[strIx] == query[queryIx];
-                    var equals = strict || strLower[strIx] == queryLower[queryIx];
-                    if (strIx == match.pos + 1) {
-                        if (match.waitNewWord)
+                    strict = str[strIx] === query[queryIx];
+                    var equals = strict || strLower[strIx] === queryLower[queryIx];
+                    if (strIx === match.pos + 1) {
+                        if (match.waitNewWord) {
                             continue;
+                        }
                         if (equals) {
                             newMatches.push({ prev: match, pos: strIx, type: MATCH_TYPE_SEQUENCE, strict: strict });
                             continue;
                         } else {
                             var firstMatchItem = match;
-                            while (firstMatchItem.prev)
+                            while (firstMatchItem.prev) {
                                 firstMatchItem = firstMatchItem.prev;
-                            if (firstMatchItem.type == MATCH_TYPE_MIDDLE)
+                            }
+                            if (firstMatchItem.type === MATCH_TYPE_MIDDLE) {
                                 continue matchloop;
+                            }
                         }
                     }
-                    if (strCharCls == CHAR_SPACE || strCharCls == CHAR_SYMBOL) {
-                        if (queryCharCls == CHAR_SPACE) {
+                    if (strCharCls === CHAR_SPACE || strCharCls === CHAR_SYMBOL) {
+                        if (queryCharCls === CHAR_SPACE) {
                             newMatches.push({ prev: match, pos: strIx, type: MATCH_TYPE_SEP, strict: strict });
-                        } else if (queryCharCls == CHAR_SYMBOL) {
-                            if (equals)
-                                newMatches.push({ prev: match, pos: strIx, type: MATCH_TYPE_SEP, strict: strict });
+                        } else if (queryCharCls === CHAR_SYMBOL) {
+                            if (equals) {
+                                newMatches.push({prev: match, pos: strIx, type: MATCH_TYPE_SEP, strict: strict});
+                            }
                         }
                         continue;
                     }
                     var strCharWordStart = isWordStart(strCharClasses[strIx], strCharClasses[strIx - 1]);
-                    //console.log("#" + strIx + " (" + str[strIx] + ", " + query[queryIx] + "): " + strCharCls + (strCharWordStart ? " ws" : "") + (equals ? " eq" : ""));
+                    //console.log('#' + strIx + ' (' + str[strIx] + ', ' + query[queryIx] + '): ' + strCharCls +
+                    //  (strCharWordStart ? ' ws' : '') + (equals ? ' eq' : ''));
                     if (equals && strCharWordStart) {
                         newMatches.push({ prev: match, pos: strIx, type: MATCH_TYPE_WORD_START, strict: strict });
                     }
                 }
-                if (queryCharCls == CHAR_SPACE) {
+                if (queryCharCls === CHAR_SPACE) {
                     match.waitNewWord = true;
                     newMatches.push(match);
                 }
@@ -190,21 +207,23 @@
             matches = newMatches;
         }
 
-        if (matches.length == 0)
+        if (matches.length === 0) {
             return null;
+        }
 
         for (i = 0; i < matches.length; i++) {
             matches[i] = convertMatch(matches[i]);
             rankMatch(matches[i], str, query);
         }
-        matches.sort(function (x, y) { return y.rank - x.rank });
-        //console.log("Matches: " + JSON.stringify(matches));
+        matches.sort(function (x, y) { return y.rank - x.rank; });
+        //console.log('Matches: ' + JSON.stringify(matches));
         return matches[0];
     }
 
     function isWordStart(chCls, chClsPrev) {
-        return (chCls[0] == CHAR_LETTER && (chClsPrev[0] != CHAR_LETTER || chCls == CHAR_LETTER_UPPER && chClsPrev == CHAR_LETTER_LOWER))
-            || chCls == CHAR_DIGIT && chClsPrev != CHAR_DIGIT;
+        return (chCls[0] === CHAR_LETTER &&
+            (chClsPrev[0] !== CHAR_LETTER || chCls === CHAR_LETTER_UPPER && chClsPrev === CHAR_LETTER_LOWER)
+            ) || (chCls === CHAR_DIGIT && chClsPrev !== CHAR_DIGIT);
     }
 
     function toLower(str) {
@@ -216,22 +235,27 @@
     }
 
     function getCharClass(ch) {
-        if (ch.charCodeAt(0) > 0xfff)
+        if (ch.charCodeAt(0) > 0xfff) {
             return getCharClassRaw(ch);
+        }
         var cls = getCharClass[ch];
-        if (cls === undefined)
+        if (cls === undefined) {
             getCharClass[ch] = cls = getCharClassRaw(ch);
+        }
         return cls;
     }
 
     function getCharClassRaw(ch) {
         var chUpper = ch.toUpperCase();
-        if (chUpper != ch.toLowerCase() || ch == "ß")
-            return ch == chUpper ? CHAR_LETTER_UPPER : CHAR_LETTER_LOWER;
-        if (ch >= "0" && ch <= "9")
+        if (chUpper !== ch.toLowerCase() || ch === 'ß') {
+            return ch === chUpper ? CHAR_LETTER_UPPER : CHAR_LETTER_LOWER;
+        }
+        if (ch >= '0' && ch <= '9') {
             return CHAR_DIGIT;
-        if (ch == " " || ch == "\t")
+        }
+        if (ch === ' ' || ch === '\t') {
             return CHAR_SPACE;
+        }
         return CHAR_SYMBOL;
     }
 
@@ -246,31 +270,36 @@
 
     function rankMatch(match, str, query) {
         match.rank = 0;
-        if (match.ch.length == 0)
+        if (match.ch.length === 0) {
             return;
+        }
         var nonStricts = 0;
-        for (var i = 0; i < match.ch.length; i++)
-            if (!match.ch[i].strict)
+        for (var i = 0; i < match.ch.length; i++) {
+            if (!match.ch[i].strict) {
                 nonStricts++;
-        if (match.ch.length == 1 && match.ch[0].type != MATCH_TYPE_FIRST && match.ch[0].type != MATCH_TYPE_WORD_START)
+            }
+        }
+        if (match.ch.length === 1 && match.ch[0].type !== MATCH_TYPE_FIRST && match.ch[0].type !== MATCH_TYPE_WORD_START) {
             return;
+        }
 
         var rank = 1;
         rank -= 0.1 * (nonStricts / match.ch.length);
-        if (match.ch[0].type == MATCH_TYPE_MIDDLE)
+        if (match.ch[0].type === MATCH_TYPE_MIDDLE) {
             rank -= 0.5;
+        }
         var matchLen = Math.min(match.ch.length, query.length, str.length);
         rank *= matchLen / str.length;
         match.rank = rank;
     }
 
     function highlightStr(str, match, config) {
-        var result = "";
+        var result = '';
         var matchIx = 0;
         var isHighlighted = false;
         for (var strIx = 0; strIx < str.length; strIx++) {
             var curMatchCh = match.ch[matchIx];
-            if (curMatchCh && curMatchCh.pos == strIx) {
+            if (curMatchCh && curMatchCh.pos === strIx) {
                 if (!isHighlighted) {
                     result += config.start;
                     isHighlighted = true;
@@ -285,31 +314,35 @@
             }
             result += str[strIx];
         }
-        if (isHighlighted)
+        if (isHighlighted) {
             result += config.end;
+        }
         return result;
     }
 
     function initAccents() {
-        var lowerRegexStr = "[";
+        var lowerRegexStr = '[';
         for (var letter in letterAccents) {
-            if (!letterAccents.hasOwnProperty(letter))
+            if (!letterAccents.hasOwnProperty(letter)) {
                 continue;
+            }
             var accents = letterAccents[letter];
-            for (var i = 0; i < accents.length; i++)
+            for (var i = 0; i < accents.length; i++) {
                 accentsToLower[accents[i]] = letter;
+            }
             lowerRegexStr += accents;
         }
-        lowerRegexStr += "]";
-        lowerRegex = new RegExp(lowerRegexStr, "g");
+        lowerRegexStr += ']';
+        lowerRegex = new RegExp(lowerRegexStr, 'g');
     }
 
     initAccents();
 
-    if ((typeof module === "object") && module.exports)
+    if ((typeof module === 'object') && module.exports) {
         module.exports = StringCaseMatch;
-    else if ((typeof define === "function") && define.amd)
-        define(function() { return StringCaseMatch; });
-    else if (typeof window === "object")
+    } else if ((typeof define === 'function') && define.amd) {
+        define(function () { return StringCaseMatch; });
+    } else if (typeof window === 'object') {
         window.StringCaseMatch = StringCaseMatch;
+    }
 })();
