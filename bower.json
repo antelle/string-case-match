@@ -1,0 +1,25 @@
+{
+  "name": "string-case-match",
+  "main": "string-case-match.js",
+  "version": "1.0.2",
+  "homepage": "https://github.com/antelle/string-case-match",
+  "authors": [
+    "Antelle <dmitryvit@gmail.com>"
+  ],
+  "description": "string matching library with support of camel case, dash case, etc...",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "string",
+    "match"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
